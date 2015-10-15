@@ -11,51 +11,43 @@ The [Leap Motion] device you are holding was originally designed to track hand m
 
 
 ## The Process
+
 ![Raw Depth Input](/content/images/process/01%20Raw%20Depth%20Input.png)
+### 01 Raw Depth Input
+Description.
 
 ![Surface Mapping](/content/images/process/02%20Surface%20Mapping.png)
+### 02 Surface Mapping
+Description.
 
 ![Particle System](/content/images/process/03%20Particle%20System.png)
+### 03 Particle System
+Description.
 
 ![Texture and Color](/content/images/process/04%20Texture%20and%20Color.png)
+### 04 Texture and Color
+Description.
 
 ![Threshold](/content/images/process/05%20Threshold.png)
+### 05 Threshold
+Description.
 
 ![Depth Displacement](/content/images/process/06%20Depth%20Displacement.png)
 ### 06 Depth Displacement
-aer
+Description.
 
 ![Camera Bloom](/content/images/process/07%20Camera%20Bloom.png)
 ### 07 Camera Bloom
-ear
+Description.
 
 ![Depth Masking](/content/images/process/08%20Depth%20Masking.png)
 ### 08 Depth Masking
-er
+Description.
 
 ![Final](/content/images/process/10%20Final.png)
 ### 09 Depth of Field
 Finally, we apply the blah dee blah to blah. It blahs.
 
+
+
 [Leap Motion]: http://leapmotion.com
-
-
-
-
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-	/*$("p img").each(function(i, e){
-		$e = $(e);
-		console.log($e.outerWidth());
-		$e.parent().css({
-			backgroundImage: "url(\"" + $e.attr("src") + "\")",
-			height: "1200px"
-		});
-		$e.remove();
-	});*/
-
-});
-
-</script>
