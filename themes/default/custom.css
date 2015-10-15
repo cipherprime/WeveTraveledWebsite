@@ -89,13 +89,7 @@ p
 {
 	text-align: center;
 }
-<<<<<<< Updated upstream
-/*
-#content p img
-{
-	width: 50%;
-}*/
-=======
+
 
 #content p[style]
 {
@@ -104,8 +98,6 @@ p
 	color: #FFF;
 	text-align: right;
 }
->>>>>>> Stashed changes
-
 
 #content h3
 {

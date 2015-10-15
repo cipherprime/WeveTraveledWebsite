@@ -17,11 +17,6 @@ Date: 2015/10/14
  
 This exhibit showcases the light-bending mechanics of *Duet*’s signature controls, vibrantly rendered colours, rich graphic design, and lush orchestration. This living world, captured with virtual photography and painstakingly hand-embellished, is now yours to witness.
 
-
-
-
-
-
 [Title]: /content/images/weve_traveled_so_far_title.png
 [Dain Saint]: http://twitter.com/dainsaint
 [Will Stallwood]: http://twitter.com/willstall
