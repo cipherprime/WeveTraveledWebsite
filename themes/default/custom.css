@@ -36,10 +36,7 @@ p
 	background: #333333;
 
 }
-#logo img
-{
-	max-width: 100%;
-}
+
 
 #header h1
 {
@@ -117,4 +114,17 @@ p
 	padding-right: 20px;
 	width: 70%;
 	float: right;
+}
+
+#content
+{
+	overflow: auto;
+}
+
+
+video#realtime
+{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 100px;
 }

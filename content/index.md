@@ -6,7 +6,7 @@ Date: 2015/10/14
 
 ![We’ve Traveled So Far][Title]
 
-<video id="realtime" width="640" height="360" preload autoplay loop>
+<video id="realtime" width="430" height="644" preload autoplay loop>
 	<source src="/content/video/Realtime_H264.mp4" />
 	<source src="/content/video/Realtime_WebM.webm" />
 </video>

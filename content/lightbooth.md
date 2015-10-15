@@ -20,7 +20,7 @@ A Sobel filter is applied to generated a normal map that will be used to add mor
 
 ![Particle System](/content/images/process/03%20Particle%20System.png)
 ### 03 Particle System
-Auditorium Duet's particle system, Rho, uses generated meshes to represent simulated particles a ribbons of light.
+Auditorium Duet's particle system, Rho, uses a dynamically-generated mesh to represent simulated particles as ribbons of light.
 
 ![Texture and Color](/content/images/process/04%20Texture%20and%20Color.png)
 ### 04 Texture and Color
@@ -46,7 +46,14 @@ Now, with our virtual camera, we detect distance and use that generate a new dep
 ### 09 Depth of Field
 Finally, we apply a Depth of Field effect, simulating the focal depth of a real camera. This is the final result.
 
-
+<p>
+<video width="860" height="1288" preload autoplay loop>
+	<source src="/content/video/Realtime_H264.mp4" />
+	<source src="/content/video/Realtime_WebM.webm" />
+</video>
+</p>
+### 10 Real Time
+All of this is done in real time, yielding an effect unlike any you've seen.
 
 [Leap Motion]: http://www.leapmotion.com/
 [Sonic Ether]: https://www.assetstore.unity3d.com/en/#!/content/17324
