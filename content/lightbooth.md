@@ -8,8 +8,6 @@ Title: The Light Booth
 The [Leap Motion] device you are holding was originally designed to track hand motions for computer input. It houses two infrared (IR) sensors that detect the distance to objects in its field of view. By repurposing those sensors, we are able to generate a three-dimensional representation of the real world within *Duet*. Watch the beams of light ebb and flow around your face—and most importantly, have fun!
 
 
-
-
 ## The Process
 
 ![Raw Depth Input](/content/images/process/01%20Raw%20Depth%20Input%20-%20scaled.png)
@@ -51,4 +49,4 @@ Finally, we apply a Depth of Field effect, simulating the focal depth of a real 
 
 
 [Leap Motion]: http://www.leapmotion.com/
-[Sonic Ether]: http://google.com
+[Sonic Ether]: https://www.assetstore.unity3d.com/en/#!/content/17324

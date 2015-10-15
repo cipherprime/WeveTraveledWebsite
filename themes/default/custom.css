@@ -29,10 +29,21 @@ p
 	text-align: center;
 	display: block;
 }
+<<<<<<< Updated upstream
 #header
 {
 	padding: 0px 0px;
+<<<<<<< HEAD
 	background: #333333;
+=======
+	/* background: #333333; */
+=======
+
+#logo img
+{
+	max-width: 100%;
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 }
 #header h1
 {
@@ -64,7 +75,7 @@ p
 {
 	text-align: center;
 	margin: 0px;
-	padding: 10px;
+	padding: 0px 10px;
 	display: inline-block;
 	color: #25ffd9;
 	font-weight: normal;
@@ -82,11 +93,22 @@ p
 {
 	text-align: center;
 }
+<<<<<<< Updated upstream
 /*
 #content p img
 {
 	width: 50%;
 }*/
+=======
+
+#content p[style]
+{
+	border: 3px solid red;
+	vertical-align: bottom;
+	color: #FFF;
+	text-align: right;
+}
+>>>>>>> Stashed changes
 
 
 #content h3
