@@ -31,8 +31,8 @@ p
 }
 #header
 {
-	padding: 30px 0px;
-	padding-top: 40px;
+	padding: 0px 0px;
+	/* background: #333333; */
 }
 #header h1
 {
@@ -67,7 +67,10 @@ p
 	display: inline-block;
 }
 
-
+#footer
+{
+	background: white;
+}
 #content
 {
 	text-align: center;
@@ -77,21 +80,6 @@ p
 {
 	width: 50%;
 }*/
-
-#content h4 + p + p
-{
-	padding: 2em;
-	margin-bottom: 2em;
-	border-bottom: 1px solid #555;
-}
-
-#content p[style]
-{
-	border: 3px solid red;
-	vertical-align: bottom;
-	color: #FFF;
-	text-align: right;
-}
 
 
 #content h3
