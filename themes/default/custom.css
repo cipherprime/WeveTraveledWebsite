@@ -32,7 +32,7 @@ p
 #header
 {
 	padding: 0px 0px;
-	/* background: #333333; */
+	background: #333333;
 }
 #header h1
 {
@@ -45,6 +45,7 @@ p
 	float:none;
 	text-align: center;
 	padding-top: 20px;
+
 }
 
 #header nav ul
@@ -65,11 +66,17 @@ p
 	margin: 0px;
 	padding: 10px;
 	display: inline-block;
+	color: #25ffd9;
+	font-weight: normal;
+	text-transform: uppercase;	
+	font-size: 1em;
 }
 
 #footer
 {
 	background: white;
+	margin: 0px auto;
+	text-align: center;
 }
 #content
 {
