@@ -14,7 +14,7 @@ The [Leap Motion] device you are holding was originally designed to track hand m
 
 ![Raw Depth Input](/content/images/process/01%20Raw%20Depth%20Input%20-%20scaled.png)
 ### 01 Raw Depth Input
-The Leap Motion houses two infrared (IR) cameras to detect depth. This is what it sees.
+The Leap Motion uses two infrared (IR) cameras to detect depth. This is what it sees.
 
 ![Surface Mapping](/content/images/process/02%20Surface%20Mapping%20-%20scaled.png)
 ### 02 Surface Mapping
@@ -34,7 +34,7 @@ With a basic threshold, we can remove objects that are too far from the camera.
 
 ![Depth Displacement](/content/images/process/06%20Depth%20Displacement.png)
 ### 06 Depth Displacement
-Using the depth image and the normal map, we distort the particle system to flow across the subject.
+Using the depth image and the normal map, we distort the particle system to flow across the subject in three dimensions.
 
 ![Camera Bloom](/content/images/process/07%20Camera%20Bloom.png)
 ### 07 Camera Bloom

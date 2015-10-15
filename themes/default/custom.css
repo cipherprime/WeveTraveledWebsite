@@ -38,6 +38,7 @@ p
 #header nav ul
 {
 	text-align: center;
+	padding: 0px;
 }
 
 #header nav li
@@ -49,7 +50,8 @@ p
 #header nav li a
 {
 	text-align: center;
-	margin: 20px;
+	margin: 0px;
+	padding: 10px;
 	display: inline-block;
 }
 

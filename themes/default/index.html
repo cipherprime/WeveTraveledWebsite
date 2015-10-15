@@ -25,10 +25,11 @@
 		<div class="inner clearfix">
 			<h1><a href="{{ base_url }}" id="logo">{{ site_title }}</a></h1>
 			<nav>
-				<a href="#" class="menu-icon"></a>
 				<ul>
 					{% for page in pages %}
+						{% if page.title != "Home" %}
 						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						{% endif %}
 					{% endfor %}
 				</ul>
 			</nav>
