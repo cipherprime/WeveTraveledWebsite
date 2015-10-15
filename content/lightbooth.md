@@ -36,7 +36,7 @@ Using the depth image and the normal map, we distort the particle system to flow
 
 ![Camera Bloom](/content/images/process/07%20Camera%20Bloom.png)
 ### 07 Camera Bloom
-Using [Sonic Ether's package][Sonic Ether], we generate light from the particles, simulating the interactions that take place in a real camera lens.
+Using [Sonic Ether's bloom tech][Sonic Ether], we generate light from the particles, simulating the interactions that take place in a real camera lens.
 
 ![Depth Masking](/content/images/process/08%20Depth%20Masking.png)
 ### 08 Depth Masking

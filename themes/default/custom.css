@@ -121,10 +121,3 @@ p
 	overflow: auto;
 }
 
-
-video#realtime
-{
-	float: left;
-	margin-right: 20px;
-	margin-bottom: 100px;
-}
