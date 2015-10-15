@@ -29,22 +29,18 @@ p
 	text-align: center;
 	display: block;
 }
-<<<<<<< Updated upstream
+
 #header
 {
 	padding: 0px 0px;
-<<<<<<< HEAD
 	background: #333333;
-=======
-	/* background: #333333; */
-=======
 
+}
 #logo img
 {
 	max-width: 100%;
->>>>>>> Stashed changes
->>>>>>> origin/master
 }
+
 #header h1
 {
 	float: none;
