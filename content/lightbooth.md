@@ -12,42 +12,43 @@ The [Leap Motion] device you are holding was originally designed to track hand m
 
 ## The Process
 
-![Raw Depth Input](/content/images/process/01%20Raw%20Depth%20Input.png)
+![Raw Depth Input](/content/images/process/01%20Raw%20Depth%20Input%20-%20scaled.png)
 ### 01 Raw Depth Input
-Description.
+The Leap Motion houses two infrared (IR) cameras to detect depth. This is what it sees.
 
-![Surface Mapping](/content/images/process/02%20Surface%20Mapping.png)
+![Surface Mapping](/content/images/process/02%20Surface%20Mapping%20-%20scaled.png)
 ### 02 Surface Mapping
-Description.
+A Sobel filter is applied to generated a normal map that will be used to add more detail to the displacement later.
 
 ![Particle System](/content/images/process/03%20Particle%20System.png)
 ### 03 Particle System
-Description.
+Auditorium Duet's particle system, Rho, uses generated meshes to represent simulated particles a ribbons of light.
 
 ![Texture and Color](/content/images/process/04%20Texture%20and%20Color.png)
 ### 04 Texture and Color
-Description.
+Combining the last three passes yields this result.
 
 ![Threshold](/content/images/process/05%20Threshold.png)
 ### 05 Threshold
-Description.
+With a basic threshold, we can remove objects that are too far from the camera.
 
 ![Depth Displacement](/content/images/process/06%20Depth%20Displacement.png)
 ### 06 Depth Displacement
-Description.
+Using the depth image and the normal map, we distort the particle system to flow across the subject.
 
 ![Camera Bloom](/content/images/process/07%20Camera%20Bloom.png)
 ### 07 Camera Bloom
-Description.
+Using [Sonic Ether's package][Sonic Ether], we generate light from the particles, simulating the interactions that take place in a real camera lens.
 
 ![Depth Masking](/content/images/process/08%20Depth%20Masking.png)
 ### 08 Depth Masking
-Description.
+Now, with our virtual camera, we detect distance and use that generate a new depth mask.
 
 ![Final](/content/images/process/10%20Final.png)
 ### 09 Depth of Field
-Finally, we apply the blah dee blah to blah. It blahs.
+Finally, we apply a Depth of Field effect, simulating the focal depth of a real camera. This is the final result.
 
 
 
-[Leap Motion]: http://leapmotion.com
+[Leap Motion]: http://www.leapmotion.com/
+[Sonic Ether]: http://google.com
