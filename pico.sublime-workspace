@@ -1,0 +1,1488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"GetSizeAtPoint"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"deta",
+				"detailObjects"
+			],
+			[
+				"detail",
+				"detailObjects"
+			],
+			[
+				"VE",
+				"Vector3"
+			],
+			[
+				"Detai",
+				"DetailObjectLayout"
+			],
+			[
+				"Deta",
+				"DetailObjectLayout"
+			],
+			[
+				"chil",
+				"numChildrenPerLevelRange"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"tar",
+				"targetScale"
+			],
+			[
+				"isB",
+				"isBackButton"
+			],
+			[
+				"targe",
+				"targetScale"
+			],
+			[
+				"det",
+				"detailObject"
+			],
+			[
+				"Meda",
+				"MedallionState"
+			],
+			[
+				"Ex",
+				"ExhibitDetailView"
+			],
+			[
+				"Scr",
+				"screenshotter"
+			],
+			[
+				"is",
+				"isCurrentlyDown"
+			],
+			[
+				"st",
+				"startAngle"
+			],
+			[
+				"E",
+				"ExhibitDisplay"
+			],
+			[
+				"ve",
+				"Vector3"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"da",
+				"dampingForce"
+			],
+			[
+				"detailO",
+				"detailObject"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"meda",
+				"medallionRadialLayout"
+			],
+			[
+				"med",
+				"medallions"
+			],
+			[
+				"me",
+				"medallions"
+			],
+			[
+				"Ehi",
+				"ExhibitSpawner"
+			],
+			[
+				"e",
+				"ExhibitData"
+			],
+			[
+				"mea",
+				"medallionRadialLayout"
+			],
+			[
+				"SpawnE",
+				"SpawnExhibit"
+			],
+			[
+				"ex",
+				"exhibits"
+			],
+			[
+				"Exhibi",
+				"ExhibitData"
+			],
+			[
+				"Ehx",
+				"ExhibitData"
+			],
+			[
+				"Eh",
+				"ExhibitData"
+			],
+			[
+				"ima",
+				"imageRequest"
+			],
+			[
+				"iage",
+				"imageRequest"
+			],
+			[
+				"D",
+				"Dictionary"
+			],
+			[
+				"re",
+				"requestString"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"Re",
+				"ReleaseTemporary"
+			],
+			[
+				"coc",
+				"cocTex"
+			],
+			[
+				"de",
+				"detailDescriptionText"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"dr",
+				"dropShadow"
+			],
+			[
+				"targ",
+				"targetDepth"
+			],
+			[
+				"De",
+				"DETAIL"
+			],
+			[
+				"fad",
+				"fadeColor"
+			],
+			[
+				"Exhib",
+				"ExhibitState"
+			],
+			[
+				"Exhi",
+				"ExhibitState"
+			],
+			[
+				"Exh",
+				"ExhibitState"
+			],
+			[
+				"rig",
+				"rightLetterbox"
+			],
+			[
+				"pix",
+				"pixelScaleFull"
+			],
+			[
+				"target",
+				"targetCamera"
+			],
+			[
+				"Target",
+				"targetCamera"
+			],
+			[
+				"ta",
+				"targetCamera"
+			],
+			[
+				"rigid",
+				"rigidbodies"
+			],
+			[
+				"rigi",
+				"rigidbodies"
+			],
+			[
+				"cur",
+				"currentExhibitIndex"
+			],
+			[
+				"Vecto",
+				"Vector2"
+			],
+			[
+				"exh",
+				"exhibit"
+			],
+			[
+				"alph",
+				"alphaHex"
+			],
+			[
+				"fl",
+				"floorDisplay"
+			],
+			[
+				"el",
+				"elapsedTime"
+			],
+			[
+				"minim",
+				"minimumSpawnRadius"
+			],
+			[
+				"co",
+				"colliderRadius"
+			],
+			[
+				"di",
+				"displayCamera"
+			],
+			[
+				"dis",
+				"displayDepth"
+			],
+			[
+				"d",
+				"displayDepth"
+			],
+			[
+				"sc",
+				"screenPoint"
+			],
+			[
+				"c",
+				"collider"
+			],
+			[
+				"V",
+				"Vector2"
+			],
+			[
+				"Spawn",
+				"SpawnExhibits"
+			],
+			[
+				"no",
+				"noiseVector"
+			],
+			[
+				"aff",
+				"affectZ"
+			],
+			[
+				"af",
+				"affectX"
+			],
+			[
+				"layers",
+				"layersToAffect"
+			],
+			[
+				"trig",
+				"triggerCooldown"
+			],
+			[
+				"inlin",
+				"inlineThickness"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"outli",
+				"outlineMargin"
+			],
+			[
+				"v",
+				"velocity"
+			],
+			[
+				"ind",
+				"indicesToView"
+			],
+			[
+				"eh",
+				"exhibits"
+			],
+			[
+				"Ve",
+				"Vector3"
+			],
+			[
+				"Dep",
+				"DepthCamera"
+			],
+			[
+				"te",
+				"texcoord0"
+			],
+			[
+				"_D",
+				"_DistortionX"
+			],
+			[
+				"T",
+				"Texture2D"
+			],
+			[
+				"x",
+				"xDistortion"
+			],
+			[
+				"Te",
+				"TextureFormat"
+			],
+			[
+				"_Ra",
+				"_RayScale"
+			],
+			[
+				"cor",
+				"correctedTexture"
+			],
+			[
+				"corre",
+				"correctionFilter"
+			],
+			[
+				"sobl",
+				"sobelFilter"
+			],
+			[
+				"tex",
+				"tex2D"
+			],
+			[
+				"b",
+				"BytesPerPixel"
+			],
+			[
+				"DRaw",
+				"DrawVertices"
+			],
+			[
+				"dep",
+				"depthLookUp"
+			],
+			[
+				"part",
+				"particleNormal"
+			],
+			[
+				"camer",
+				"cameraClearFlags"
+			],
+			[
+				"s",
+				"screenPos"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"par",
+				"particleNormal"
+			],
+			[
+				"ligh",
+				"lightBackgroundColor"
+			],
+			[
+				"sk",
+				"skybox"
+			],
+			[
+				"Vis",
+				"VisualMode"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"Visua",
+				"VisualModeProperties"
+			],
+			[
+				"pro",
+				"proxySystem"
+			],
+			[
+				"nu",
+				"numParticles"
+			],
+			[
+				"Pro",
+				"proxySystem"
+			],
+			[
+				"_Me",
+				"_MaskTex"
+			],
+			[
+				"_Ma",
+				"_MainTex"
+			],
+			[
+				"_",
+				"_MainTex"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"vi",
+				"vignetteShader"
+			],
+			[
+				"wa",
+				"warpPrefab"
+			],
+			[
+				"mag",
+				"magnitude"
+			],
+			[
+				"C",
+				"ControlPointCount"
+			],
+			[
+				"transf",
+				"_transform"
+			],
+			[
+				"dire",
+				"directionForce"
+			],
+			[
+				"coh",
+				"cohesionPosition"
+			],
+			[
+				"vel",
+				"velocity"
+			],
+			[
+				"cohes",
+				"cohesionRadius"
+			],
+			[
+				"prew",
+				"prewarmTime"
+			],
+			[
+				"Mesh",
+				"MeshTopology"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"toggl",
+				"View: Toggle Tabs"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"caps",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/Pico"
+	],
+	"file_history":
+	[
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/Pico/index.php",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/about.md",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/_layouts/post.html",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/artshow.sublime-project",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObject.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObjectLayout.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationRadial.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimation.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitSpawner.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitDetailView.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationFisheye.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/generic/GenericSpawner.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/carousel/Carousel.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/tags/TagDisplay.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/ui/UICircle.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/carousel/ToggleViewMode.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObjectSpawner.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObjectAnimation.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/Spring.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/resources/Exhibits.txt",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/detail/DetailObject.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/input/touch/TouchHandler.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitDisplay.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/medallion/TouchDragMovement.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/exhibits/Exhibits.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/exhibits/ExhibitData.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/medallion/Medallion.cs",
+		"/Users/dainsaint/Downloads/cinder_0.9.0_mac/README.md",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/TouchButton.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/detail/DetailObjectSpawner.cs",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/Final/ArduinoInterface.cs",
+		"/Users/dainsaint/Work/games/duet/auditorium-duet/project/Auditorium Duet/Assets/project/general/cinematic/CinematicCameraMover.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/tags/MedallionRadialLayout.cs",
+		"/Users/dainsaint/Work/games/duet/auditorium-duet/project/Auditorium Duet/Assets/project/game/warps/LensWarp.cs",
+		"/Users/dainsaint/Downloads/arduinousb_release_004/README",
+		"/Users/dainsaint/Documents/Arduino/libraries/UsbKeyboard/UsbKeyboard.h",
+		"/Users/dainsaint/Documents/Arduino/libraries/UsbKeyboard/usbdrv.c",
+		"/Users/dainsaint/Documents/Arduino/libraries/UsbKeyboard/usbdrv.h",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/Final/ArduinoTest.cs",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/Uniduino/Scripts/Arduino.cs",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/Uniduino/Tutorials/Digital Read/DigitalRead.cs",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/packages/vendor/Uniduino/Tutorials/Analog Read/AnalogRead.cs",
+		"/Users/dainsaint/Work/games/duet/auditorium-duet/project/Auditorium Duet/Assets/project/general/cinematic/CinematicCameraActions.cs",
+		"/Users/dainsaint/Work/games/duet/auditorium-duet/project/Auditorium Duet/Assets/packages/rho/core/RhoSystem.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/ForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/detail/DetailObjectLayout.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/medallion/MedallionMovement.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/Exhibit.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/input/touch/TouchDragReceiver.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/editor/TagsAsset.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/Tags.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/detail/DetailObjectLayout.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/detail/DetailObject.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/ReferencesAttribute.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/editor/ReferencesAttribute.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/TagData.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/tags/editor/TagPropertyDrawer.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/ExhibitData.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/MiniJSON.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/ExhibitLiveData.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/Exhibits.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/resources/Data.tsv",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/resources/Digital Experience Script - Enhanced Object Content.xlsx - Sheet1.csv",
+		"/Users/dainsaint/Downloads/Digital Experience Script - Enhanced Object Content.xlsx",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/HexBokeh/Shader/HexBokeh.shader",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/FocusCameraOnPanel.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/AttractForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/ExhibitType.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/rendering/shaders/BasicFlat.shader",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/CenterForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitDisplayTimeout.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/SizeBoxColliderToRectTransform.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/HexBokeh/HexBokeh.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/Exhibit.prefab",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/SizeBoxColliderToPanel.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/panel/Panel.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/application logic/ApplicationStateLoop.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/state/StateMachine.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/application logic/ApplicationBase.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/WrapForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/DebugForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/Timer.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/states/ExhibitIdleStateLoop.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/state/StateMachineLoop.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/physics test/ChildCountDisplay.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/panel/Panels.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/object pool/ObjectPoolSpawner.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/FocusCameraOnRectTransform.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/DampenForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/DriftForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/WrapToBounds.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/object pool/ObjectPool.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/shapes/Circle.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/forcefields/PerlinForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/TimeToDepth.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/shapes/Shape.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/touch drag/TouchHandler.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/touch drag/NewBall.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/TouchDragReceiver.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/DragReceiver.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/exhibit/Exhibit.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/geometry/Drawer.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/windows/ShapePropertyWindow.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/ReflectEditor.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/LayerMaskTools.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/carousel/ToggleViewMode.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/rendering/ShapeFill.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/data/ExhibitTypes.cs",
+		"/Users/dainsaint/Work/games/duet/auditorium-duet/project/Auditorium Duet/Assets/project/game/player/input/mouse/MousePlayerInput.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/movement/VelocityDampener.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/carousel/Carousel.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/utils/movement/OscillatePosition.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/movement/Drift.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/panel/Panels.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/movement/PerlinNoiseTurbulence.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/physics/Drift.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/forcefields/PerlinForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/forcefields/DriftForceField.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/prefabs/FindTriggerOnStart.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/TextMesh Pro/Scripts/TextMeshProUGUI.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/LetterSpacing.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/DrawRectAtCameraDepth.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/TransformEditor.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/DistributeEditor.cs",
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/flightwall.sublime-project",
+		"/Users/dainsaint/Work/projects/room/Room/Assets/project/Leap/Standard.shader",
+		"/Users/dainsaint/Work/projects/room/Room/Assets/project/Leap/DisplacementMap.shader",
+		"/Users/dainsaint/Work/projects/room/Room/Assets/packages/freenect/FrameMode.cs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"int",
+			"centerPoint",
+			"childRange",
+			"layout.",
+			"this",
+			"tag",
+			"TagDisplay",
+			"ExhibitSpawner",
+			"Cleanup",
+			"isHollow",
+			"namespace FlightWall.DetailObjects.Drilling",
+			"string",
+			".jpg",
+			"usbInit",
+			"usbDeviceDisconnect",
+			"usbInit",
+			"usbDeviceConnect",
+			"usbDeviceDisconnect",
+			"PROGMEM",
+			"extern",
+			"detailObject",
+			"targetRadius",
+			"Receiver",
+			"dragReceiver",
+			"isBeingDragged",
+			"GetComponent<Rigidbody>()",
+			"medallion",
+			"currentState",
+			"radius",
+			"sizer",
+			"SizeBoxColliderToRectTransform",
+			";\n",
+			"Exhibit",
+			"Tags",
+			"ExhibitState",
+			"Exhibit",
+			"exhibit",
+			"Exhibit",
+			"exhibit",
+			"ExhibitDisplay",
+			"Exhibit",
+			"entry",
+			"Entry",
+			"entry",
+			",",
+			"line",
+			",",
+			"c",
+			"4 c",
+			"_MainTex",
+			"Circle",
+			"sizer",
+			"SizeBoxColliderToRectTransform",
+			"spawner",
+			"1f",
+			"displayCamera",
+			"isBeindHeld",
+			"panelTransform",
+			"data",
+			"Data",
+			"data",
+			"0",
+			"1",
+			"fadeColor",
+			"Start",
+			"{\n",
+			"Update",
+			"leftLetterbox",
+			"dynamicPixelScale",
+			"blackoutCamera",
+			"scaleInTime",
+			"collider",
+			"{\n",
+			"exhibit",
+			";\n",
+			"{\"",
+			"rb",
+			"Collider",
+			")\n",
+			"collider",
+			"bounds",
+			"collider",
+			"Collider",
+			"collider",
+			"{\n",
+			"Camera.main",
+			"castDirection",
+			"noiseVector",
+			"resolution",
+			"z",
+			"math",
+			"`",
+			"false",
+			"canvasTransform",
+			"canvas",
+			";\n",
+			"location",
+			"description",
+			"floor",
+			"}",
+			"y",
+			"Size",
+			"size",
+			"isDirty",
+			"center",
+			"size",
+			"UnityStandardCore",
+			"texture2D",
+			"vec4",
+			"hIndex",
+			"vIndex",
+			"RenderTexture",
+			"renderTexture",
+			"uv",
+			"leapController",
+			"nextFrameData",
+			"UpdateNextFrameDepthMap",
+			"final",
+			"imescale",
+			"imeScale",
+			"imescale",
+			"timescale",
+			"deltaTime",
+			"i ",
+			"i",
+			"floor",
+			"normal",
+			"_transform.position"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GenericSpawner",
+			"",
+			"ze"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pico.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"detailvie",
+				"Assets/project/application/exhibit/ExhibitDetailView.cs"
+			],
+			[
+				"detail",
+				"Assets/experiments/drilling/DetailObjectLayout.cs"
+			],
+			[
+				"touchhan",
+				"Assets/packages/input/touch/TouchHandler.cs"
+			],
+			[
+				"tagdi",
+				"Assets/project/application/tags/TagDisplay.cs"
+			],
+			[
+				"movemen",
+				"project/application/medallion/TouchDragMovement.cs"
+			],
+			[
+				"medallion",
+				"project/application/medallion/Medallion.cs"
+			],
+			[
+				"touch",
+				"packages/input/touch/TouchHandler.cs"
+			],
+			[
+				"medalayo",
+				"project/application/tags/MedallionRadialLayout.cs"
+			],
+			[
+				"spawn",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"xhibitdi",
+				"project/application/exhibit/ExhibitDisplay.cs"
+			],
+			[
+				"xhibitsp",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"exhibitsp",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"tagdis",
+				"project/application/tags/TagDisplay.cs"
+			],
+			[
+				"exhibi",
+				"project/data/exhibits/Exhibits.cs"
+			],
+			[
+				"tagd",
+				"project/application/tags/TagDisplay.cs"
+			],
+			[
+				"tags",
+				"project/tags/Tags.cs"
+			],
+			[
+				"ehxbidata",
+				"project/data/exhibits/ExhibitData.cs"
+			],
+			[
+				"ex",
+				"project/application/exhibit/Exhibit.cs"
+			],
+			[
+				"exsp",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"rece",
+				"packages/input/touch/TouchDragReceiver.cs"
+			],
+			[
+				"cen",
+				"packages/forcefields/CenterForceField.cs"
+			],
+			[
+				"exhii",
+				"project/data/ExhibitType.cs"
+			],
+			[
+				"timeou",
+				"project/application/exhibit/ExhibitDisplayTimeout.cs"
+			],
+			[
+				"xhi",
+				"project/application/exhibit/Exhibit.cs"
+			],
+			[
+				"app",
+				"packages/application logic/ApplicationBase.cs"
+			],
+			[
+				"panel",
+				"project/application/panel/Panel.cs"
+			],
+			[
+				"exspaw",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"for",
+				"packages/forcefields/ForceField.cs"
+			],
+			[
+				"forc",
+				"packages/forcefields/ForceField.cs"
+			],
+			[
+				"xh",
+				"project/application/exhibit/Exhibit.cs"
+			],
+			[
+				"timer",
+				"project/utils/Timer.cs"
+			],
+			[
+				"exhisp",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"spawner",
+				"project/utils/object pool/ObjectPoolSpawner.cs"
+			],
+			[
+				"arou",
+				"project/application/carousel/Carousel.cs"
+			],
+			[
+				"caro",
+				"project/application/carousel/Carousel.cs"
+			],
+			[
+				"xhibi",
+				"project/data/ExhibitData.cs"
+			],
+			[
+				"perl",
+				"packages/forcefields/PerlinForceField.cs"
+			],
+			[
+				"forcefield",
+				"packages/forcefields/DriftForceField.cs"
+			],
+			[
+				"",
+				"project/application/exhibit/ExhibitDisplayTimeout.cs"
+			],
+			[
+				"objec",
+				"project/utils/object pool/ObjectPool.cs"
+			],
+			[
+				"spawne",
+				"project/application/exhibit/ExhibitSpawner.cs"
+			],
+			[
+				"hape",
+				"packages/designer/shapes/Shape.cs"
+			],
+			[
+				"circl",
+				"packages/designer/shapes/Circle.cs"
+			],
+			[
+				"circ",
+				"packages/designer/shapes/Circle.cs"
+			],
+			[
+				"opj",
+				"project/utils/object pool/ObjectPool.cs"
+			],
+			[
+				"force",
+				"packages/forcefields/ForceField.cs"
+			],
+			[
+				"ampen",
+				"packages/forcefields/DampenForceField.cs"
+			],
+			[
+				"dampen",
+				"packages/forcefields/DampenForceField.cs"
+			],
+			[
+				"tog",
+				"project/application/carousel/ToggleViewMode.cs"
+			],
+			[
+				"exhibits",
+				"project/data/Exhibits.cs"
+			],
+			[
+				"exh",
+				"project/application/exhibit/Exhibit.cs"
+			],
+			[
+				"obj",
+				"project/utils/object pool/ObjectPool.cs"
+			],
+			[
+				"drawer",
+				"packages/designer/geometry/Drawer.cs"
+			],
+			[
+				"shape",
+				"packages/designer/shapes/Shape.cs"
+			],
+			[
+				"hapefil",
+				"packages/designer/rendering/ShapeFill.cs"
+			],
+			[
+				"shapef",
+				"packages/designer/rendering/ShapeFill.cs"
+			],
+			[
+				"sha",
+				"packages/designer/shapes/Shape.cs"
+			],
+			[
+				"data",
+				"project/data/ExhibitData.cs"
+			],
+			[
+				"exhibit",
+				"project/data/Exhibits.cs"
+			],
+			[
+				"rhop",
+				"packages/rho/core/RhoParticle.cs"
+			],
+			[
+				"parti",
+				"project/game/environment/ambient particles/Particle Shader.shader"
+			],
+			[
+				"depthc",
+				"packages/vendor/freenect/DepthCamera.cs"
+			],
+			[
+				"kinec",
+				"packages/vendor/freenect/Kinect.cs"
+			],
+			[
+				"basecam",
+				"packages/vendor/freenect/BaseCamera.cs"
+			],
+			[
+				"rhoqua",
+				"packages/rho/renderers/meshes/RhoQuadMesh.cs"
+			],
+			[
+				"blurr",
+				"project/game/effects/post process/BlurRenderer.cs"
+			],
+			[
+				"lig",
+				"project/general/camera/motions/LightModeCameraMotion.cs"
+			],
+			[
+				"rhotri",
+				"packages/rho/renderers/RhoTriangleRenderer.cs"
+			],
+			[
+				"visua",
+				"project/game/ui/menu/VisualModeTransition.cs"
+			],
+			[
+				"rhor",
+				"packages/rho/renderers/RhoRenderer.cs"
+			],
+			[
+				"trackin",
+				"project/general/camera/motions/TrackingCameraMotion.cs"
+			],
+			[
+				"rhoqu",
+				"packages/rho/renderers/meshes/RhoQuadMesh.cs"
+			],
+			[
+				"rhomeshre",
+				"packages/rho/renderers/RhoMeshRenderer.cs"
+			],
+			[
+				"rhos",
+				"packages/rho/core/RhoSystem.cs"
+			],
+			[
+				"rhore",
+				"packages/rho/renderers/RhoRenderer.cs"
+			],
+			[
+				"part",
+				"project/game/environment/ambient particles/Particle Shader.shader"
+			],
+			[
+				"basic",
+				"packages/designer/rendering/shaders/BasicFlat.shader"
+			],
+			[
+				"posteff",
+				"packages/vendor/ImageEffects/Scripts/PostEffectsBase.cs"
+			],
+			[
+				"bezi",
+				"packages/vendor/CatlikeCoding/BezierSpline.cs"
+			],
+			[
+				"splin",
+				"project/game/warps/SplineWarp.cs"
+			],
+			[
+				"rhowa",
+				"packages/rho/warps/RhoWarp.cs"
+			],
+			[
+				"portalw",
+				"project/game/warps/PortalWarp.cs"
+			],
+			[
+				"rhow",
+				"packages/rho/warps/RhoWarp.cs"
+			],
+			[
+				"colorw",
+				"project/game/warps/ColorChangeWarp.cs"
+			],
+			[
+				"lens",
+				"project/game/warps/LensWarp.cs"
+			],
+			[
+				"defle",
+				"project/game/warps/DeflectWarp.cs"
+			],
+			[
+				"rhosy",
+				"packages/rho/core/RhoSystem.cs"
+			],
+			[
+				"rho",
+				"packages/rho/warps/RhoWarp.cs"
+			],
+			[
+				"attr",
+				"project/game/warps/AttractWarp.cs"
+			],
+			[
+				"colori",
+				"packages/colors/data/Colorize.cs"
+			],
+			[
+				"rhot",
+				"packages/rho/core/RhoParticle.cs"
+			],
+			[
+				"dynamc",
+				"packages/geometry/DynamicMesh.cs"
+			],
+			[
+				"rhosys",
+				"packages/rho/core/RhoSystem.cs"
+			],
+			[
+				"attrac",
+				"project/game/warps/AttractWarp.cs"
+			],
+			[
+				"rhi",
+				"packages/rho/core/RhoParticle.cs"
+			],
+			[
+				"shapegui",
+				"packages/designer/editor/gui/ShapeGUI.cs"
+			],
+			[
+				"mousepla",
+				"project/game/player/input/mouse/MousePlayerInput.cs"
+			],
+			[
+				"inventory",
+				"project/game/player/PlayerElementInventory.cs"
+			],
+			[
+				"player",
+				"project/game/player/Player.cs"
+			],
+			[
+				"mouspl",
+				"project/game/player/input/mouse/MousePlayerInput.cs"
+			],
+			[
+				"mainme",
+				"project/application/states/MainMenuStateLoop.cs"
+			],
+			[
+				"colorpal",
+				"packages/colors/ColorPalettes.cs"
+			],
+			[
+				"background",
+				"project/game/effects/post process/shaders/BlurRendererBackground.shader"
+			],
+			[
+				"blurrendershader",
+				"project/game/effects/post process/shaders/BlurRendererFade.shader"
+			],
+			[
+				"blurre",
+				"project/game/effects/post process/shaders/BlurRendererFade.shader"
+			],
+			[
+				"blurren",
+				"project/game/effects/post process/BlurRenderer.cs"
+			],
+			[
+				"mousefol",
+				"project/general/mouse/MouseFollow.cs"
+			],
+			[
+				"mouseplayer",
+				"project/game/player/input/mouse/MousePlayerInput.cs"
+			],
+			[
+				"controllerpla",
+				"project/game/player/input/controller/ControllerPlayerInput.cs"
+			],
+			[
+				"mouseplya",
+				"project/game/player/input/mouse/MousePlayerInput.cs"
+			],
+			[
+				"playstateloop",
+				"project/application/states/PlayStateLoop.cs"
+			],
+			[
+				"editsta",
+				"project/application/states/EditStateLoop.cs"
+			],
+			[
+				"players",
+				"project/game/player/Players.cs"
+			],
+			[
+				"mousef",
+				"project/general/mouse/MouseFollow.cs"
+			],
+			[
+				"rhopa",
+				"packages/rho/core/RhoParticle.cs"
+			],
+			[
+				"smooth",
+				"packages/cameras/SmoothArcCamera.cs"
+			],
+			[
+				"defl",
+				"project/game/warps/DeflectWarp.cs"
+			],
+			[
+				"colorize",
+				"packages/colors/data/Colorize.cs"
+			],
+			[
+				"rhoparticle",
+				"packages/rho/core/RhoParticle.cs"
+			],
+			[
+				"controll",
+				"project/game/player/input/controller/ControllerPlayerInput.cs"
+			],
+			[
+				"control",
+				"project/game/elements/controls/_core/Control.cs"
+			],
+			[
+				"circle",
+				"packages/designer/shapes/Circle.cs"
+			],
+			[
+				"repr",
+				"project/application/states/ReprieveStateLoop.cs"
+			],
+			[
+				"playst",
+				"project/application/states/PlayStateLoop.cs"
+			],
+			[
+				"playerinput",
+				"project/game/player/input/PlayerInput.cs"
+			],
+			[
+				"line",
+				"packages/rho/renderers/meshes/RhoLineMesh.cs"
+			],
+			[
+				"editst",
+				"project/application/states/EditStateLoop.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

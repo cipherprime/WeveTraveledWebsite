@@ -1,5 +1,4 @@
 <?php
-
 define('ROOT_DIR', realpath(dirname(__FILE__)) . '/');
 define('LIB_DIR', ROOT_DIR . 'lib/');
 define('VENDOR_DIR', ROOT_DIR . 'vendor/');
