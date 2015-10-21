@@ -4,16 +4,28 @@
 		"selected_items":
 		[
 			[
-				"Get",
-				"GetSizeAtPoint"
+				"deta",
+				"detailObject"
+			],
+			[
+				"Det",
+				"DetailObjectAnimationScaleRange"
 			],
 			[
 				"Vect",
-				"Vector3"
+				"Vector2"
 			],
 			[
-				"deta",
-				"detailObjects"
+				"Vec",
+				"Vector2"
+			],
+			[
+				"Detail",
+				"DetailObjectType"
+			],
+			[
+				"Get",
+				"GetSizeAtPoint"
 			],
 			[
 				"detail",
@@ -34,10 +46,6 @@
 			[
 				"chil",
 				"numChildrenPerLevelRange"
-			],
-			[
-				"Vec",
-				"Vector3"
 			],
 			[
 				"tar",
@@ -506,19 +514,51 @@
 			[
 				"cohes",
 				"cohesionRadius"
-			],
-			[
-				"prew",
-				"prewarmTime"
-			],
-			[
-				"Mesh",
-				"MeshTopology"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "content/lightbooth.md",
+			"settings":
+			{
+				"buffer_size": 2779,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/config.php",
+			"settings":
+			{
+				"buffer_size": 1855,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/index.md",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/default/index.html",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/default/custom.css",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -589,17 +629,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/Pico"
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/config",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/video",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes/default",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes/default/scripts"
 	],
 	"file_history":
 	[
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationRadial.cs",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/process.md",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/index.md",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes/default/style.css",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/Pico/index.php",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/about.md",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/_layouts/post.html",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/artshow/artshow.sublime-project",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObject.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/DetailObjectLayout.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationRadial.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimation.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitSpawner.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/application/exhibit/ExhibitDetailView.cs",
@@ -717,10 +766,7 @@
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/DrawRectAtCameraDepth.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/TransformEditor.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/DistributeEditor.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/flightwall.sublime-project",
-		"/Users/dainsaint/Work/projects/room/Room/Assets/project/Leap/Standard.shader",
-		"/Users/dainsaint/Work/projects/room/Room/Assets/project/Leap/DisplacementMap.shader",
-		"/Users/dainsaint/Work/projects/room/Room/Assets/packages/freenect/FrameMode.cs"
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/flightwall.sublime-project"
 	],
 	"find":
 	{
@@ -738,6 +784,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"scaleRange",
+			">\n",
+			"HTML5Sample",
 			"int",
 			"centerPoint",
 			"childRange",
@@ -862,10 +911,7 @@
 			"timescale",
 			"deltaTime",
 			"i ",
-			"i",
-			"floor",
-			"normal",
-			"_transform.position"
+			"i"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -886,8 +932,151 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/lightbooth.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1910,
+								1910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/default/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								948,
+								948
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "themes/default/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1283,
+								1283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 774.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -897,7 +1086,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
