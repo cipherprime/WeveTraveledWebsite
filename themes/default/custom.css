@@ -14,7 +14,7 @@ body
 
 h1, h2, h3, h4
 {
-	font-weight: 300 !important;
+	font-weight: 400 !important;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #000;
@@ -143,19 +143,23 @@ hr
 {
 	list-style: none;
 	padding: 0px;
+	overflow: auto;
+	margin: -10px 0px;
 }
 
 #content li
 {
 	float: left;
 	width: 25%;
-	padding: 10px;
 	box-sizing: border-box;
+	margin: 0px;
+	padding: 10px;
 }
 
 #content li img
 {
 	max-width: 100%;
+	display: block;
 }
 
  /*
