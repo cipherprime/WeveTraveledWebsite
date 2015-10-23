@@ -4,12 +4,8 @@ Author: Cipher Prime
 Date: 2015/10/14
 */
 
-
-
-
-
 # The Story
-![Cipher Prime Team][Cipher Prime Team]
+
 
 *[Auditorium]* marked the beginning of [Cipher Prime], [Dain Saint] and [Will Stallwood]’s development studio. The duo returned to that humble beginning to create *[Auditorium Duet]*, a sequel designed to explore the sacred space of their collaborative process. Since 2012, the project has followed a long and emotionally taxing journey. *Duet* is not yet finished, and Cipher Prime is still working hard.
  
@@ -34,7 +30,7 @@ light booth, get selfie, light dripped on face, etc.
 Explorarble virtual photography rig
 
 <p>
-<iframe src="//player.vimeo.com/video/143431593?autoplay=1&loop=1" width="800" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/143431593?loop=1" width="800" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 ***
@@ -44,10 +40,10 @@ We wanted to put you into the game
 
 
 <p>
-<iframe src="//player.vimeo.com/video/143423100?autoplay=1&loop=1" width="800" height="1200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/143423100?loop=1" width="800" height="1200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
-
+<!--
 ***
 ***
 ***
@@ -72,6 +68,8 @@ Brochure?
 # Selfies on Wall
 Shot of shelf wall.
 
+-->
+
 [Dain Saint]: http://twitter.com/dainsaint
 [Will Stallwood]: http://twitter.com/willstall
 [Auditorium]: http://www.playauditorium.com
@@ -83,5 +81,4 @@ Shot of shelf wall.
 
 
 [Test Image]: /content/images/IMG_1638.JPG
-[Cipher Prime Team]: /content/images/cp.png
 [Adriana]: /content/images/adriana.jpg
