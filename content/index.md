@@ -4,12 +4,8 @@ Author: Cipher Prime
 Date: 2015/10/14
 */
 
-![We’ve Traveled So Far][Title]
+<iframe src="//player.vimeo.com/video/143423100?autoplay=1&loop=1" width="430" height="644" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<video id="realtime" width="430" height="644" preload autoplay loop poster="/content/video/realtime.png">
-	<source src="/content/video/realtime_H264.mp4" type="video/mp4"/>
-	<source src="/content/video/realtime_WebM.webm" type="video/webm"/>
-</video>
 
 *[Auditorium]* marked the beginning of [Cipher Prime], [Dain Saint] and [Will Stallwood]’s development studio. The duo returned to that humble beginning to create *[Auditorium Duet]*, a sequel designed to explore the sacred space of their collaborative process. Since 2012, the project has followed a long and emotionally taxing journey. *Duet* is not yet finished, and Cipher Prime is still working hard.
  
@@ -22,6 +18,19 @@ This exhibit showcases the light-bending mechanics of *Duet*’s signature contr
 # Images of the show
 Large shot of entire space.
 
+* [![Test Image][Test Image]][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+* ![Test Image][Test Image]
+
+
 # Pieces
 Shot of larger pieces spread across composition.
 
@@ -31,7 +40,6 @@ Brochure?
 # Selfies on Wall
 Shot of shelf wall.
 
-[Title]: /content/images/weve_traveled_so_far_title.png
 [Dain Saint]: http://twitter.com/dainsaint
 [Will Stallwood]: http://twitter.com/willstall
 [Auditorium]: http://www.playauditorium.com
@@ -40,3 +48,4 @@ Shot of shelf wall.
 [Unity3D]: http://www.unity3D.com
 [Leap Motion]: http://leapmotion.com
 [Indy Hall Arts]: http://indyhall.com
+[Test Image]: /content/images/IMG_1638.JPG
