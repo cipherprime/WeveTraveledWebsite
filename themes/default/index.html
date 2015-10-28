@@ -26,7 +26,7 @@
 
 	<header id="header">
 		<div class="inner clearfix">
-			<a href-="/"><img src="/content/images/weve_traveled_so_far_title.png"></a>
+			<a href="/"><img src="/content/images/weve_traveled_so_far_title.png"></a>
 			<p>
 				An interactive exhibition that chronicles the effort of two men working to keep a promise.
 			</p>
@@ -49,9 +49,20 @@
 		</div>
 	</section>
 
-
-	
 	<footer id="footer">
+
+		<div class="inner">
+			<nav>
+				<ul>
+					{% for page in pages %}
+						{% if page.title != "Index" %}
+						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</nav>
+		</div>
+			
 		<div class="inner">
 			<a href="http://www.cipherprime.com">
 				<img src="/content/images/cipherprime_footer.png"/>
