@@ -97,7 +97,6 @@ nav ul
 	margin: 0px;
 }
 
-
 nav li
 {
 	float:none;
@@ -122,6 +121,22 @@ nav li a:hover
 {
 	border-bottom: 1px solid white;
 	color: #FFF;
+}
+
+ol
+{
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+ol li
+{
+	text-align: center;
+	margin: 0px;
+	padding: 0px 20px;
+	display: inline-block;
+	text-transform: uppercase;	
 }
 
 #footer nav

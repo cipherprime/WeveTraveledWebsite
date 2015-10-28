@@ -4,6 +4,8 @@ Author: Cipher Prime
 Date: 2013/01/02
 */
 
+![Large Wide]
+
 # The Intention
 
 *Auditorium* is a game where you bend beams of light to conduct a symphony orchestra. With this show, we wanted to pay homage to a game that has brought us so very far in our lives, both physically and emotionally. Keep in mind, this journey is far from over.
@@ -20,12 +22,20 @@ It is our hope that when you look back at how far you’ve come on your journey,
 
 ***
 
+1. ![Onward and Upward]
+2. ![Onward and Upward Side]
+
+
 # Onward and Upward (White)
 Mechanic: Directionals | Inspiration: Wind
 
 We look out on the morning; a single cloud on the horizon. It beckons us onward, thoughts scattered to the four winds. We have traveled so far, but our journey is far from over…
 	
 # *
+
+1. ![Whirling Firestorm]
+2. ![Whirling Firestorm Side]
+
 
 # Whirling Firestorm (Red)
 Mechanic: Attract | Inspiration: Fire
@@ -34,12 +44,20 @@ We stand witness to a rare event: the firestorm. The flames streak from ground t
 
 # *
 
+1. ![Moment of Reflection]
+2. ![Moment of Reflection Side]
+
+
 # Moment of Reflection (Blue)
 Mechanic: Repel | Inspiration: Water
 
 We make camp on the riverbank; to rest, yes, but also to remember. The waterfall stands frozen, a moment captured in time. Light plays tricks in this place, illuminating the path behind us; a reminder of home.
 
 # *
+
+1. ![Untamed Ricochet]
+2. ![Untamed Ricochet Side]
+
 
 # Untamed Ricochet (Green)
 Mechanic: Deflect | Inspiration: Earth
@@ -48,12 +66,18 @@ We walk into the earth. Our voices crash against every surface, forming a patter
 
 # *
 
+1. ![Escape Velocity]
+2. ![Escape Velocity Side]
+
+
 # Escape Velocity (Purple)
 Mechanic: Lens | Inspiration: Gravity
 
 We arrive at a hidden waypoint. The energy of this city hums and swirls around us, a force of nature unto itself. Our trajectory has been forever affected by the irresistible gravity of the metropolis.
 
 ***
+
+![Synaesthetic Symphony]
 
 # Synaesthetic Symphony (Triptych Blue/Gold)
 Mechanic: Colour | Inspiration: Sun
@@ -62,6 +86,7 @@ The colours of the sky shift with the rising sun. Shimmering, cerulean and gold,
 
 ***
 
+![Linear Impulse]
 # Linear Impulse (White)
 Mechanic: Directionals | Inspiration: Wind
 
@@ -69,6 +94,7 @@ Pick a direction, and run with it. You can’t get anywhere without going somewh
 
 # *
 
+![Positive Attraction]
 # Positive Attraction (Red)
 Mechanic: Attract | Inspiration: Fire
 
@@ -76,6 +102,7 @@ Destiny is an irresistible force. You’re welcome to fight against it.
 
 # *
 
+![Reversal of Fate]
 # Reversal of Fate (Blue)
 Mechanic: Repel | Inspiration: Water
 
@@ -83,6 +110,7 @@ Sometimes, you have to go back to where you started to remember why you left.
 
 # *
 
+![Point of Impact]
 # Point of Impact (Green)
 Mechanic: Deflect | Inspiration: Earth
 
@@ -90,19 +118,30 @@ On this, the universe is clear: you cannot have an action without equal and oppo
 
 # *
 
+![Circular Logic]
 # Circular Logic (Purple)
 Mechanic: Lens | Inspiration: Gravity
 
 You should never underestimate the power of revolution.
 
-# *
+[Large Wide]: /content/img/large/large_pieces_wide.jpg
 
-# Pieces
-- description
-- 5 large
-- sigils
-- sigil description
-- description
-- 5 medium
-- description
-- tryptic
+[Onward and Upward]: /content/img/large/close/onward_and_upward.jpg
+[Whirling Firestorm]: /content/img/large/close/whirling_firestorm.jpg
+[Moment of Reflection]: /content/img/large/close/moment_of_reflection.jpg
+[Untamed Ricochet]: /content/img/large/close/untamed_ricochet.jpg
+[Escape Velocity]: /content/img/large/close/escape_velocity.jpg
+
+[Onward and Upward Side]: /content/img/large/side/onward_and_upward.jpg
+[Whirling Firestorm Side]: /content/img/large/side/whirling_firestorm.jpg
+[Moment of Reflection Side]: /content/img/large/side/moment_of_reflection.jpg
+[Untamed Ricochet Side]: /content/img/large/side/untamed_ricochet.jpg
+[Escape Velocity Side]: /content/img/large/side/escape_velocity.jpg
+
+[Synaesthetic Symphony]: /content/img/tryptic/synaesthetic_symphony.jpg
+
+[Linear Impulse]: /content/img/medium/linear_impulse.jpg
+[Positive Attraction]: /content/img/medium/positive_attraction.jpg
+[Reversal of Fate]: /content/img/medium/reversal_of_fate.jpg
+[Point of Impact]: /content/img/medium/point_of_impact.jpg
+[Circular Logic]: /content/img/medium/circular_logic.jpg
