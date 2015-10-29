@@ -6,6 +6,10 @@ Date: 2013/01/02
 
 ![Large Wide]
 
+![Duality]
+
+![Large Piece Overview]
+
 # The Intention
 
 *Auditorium* is a game where you bend beams of light to conduct a symphony orchestra. With this show, we wanted to pay homage to a game that has brought us so very far in our lives, both physically and emotionally. Keep in mind, this journey is far from over.
@@ -26,7 +30,7 @@ It is our hope that when you look back at how far you’ve come on your journey,
 2. ![Onward and Upward Side]
 
 
-# Onward and Upward (White)
+# Onward and Upward
 Mechanic: Directionals | Inspiration: Wind
 
 We look out on the morning; a single cloud on the horizon. It beckons us onward, thoughts scattered to the four winds. We have traveled so far, but our journey is far from over…
@@ -37,7 +41,7 @@ We look out on the morning; a single cloud on the horizon. It beckons us onward,
 2. ![Whirling Firestorm Side]
 
 
-# Whirling Firestorm (Red)
+# Whirling Firestorm
 Mechanic: Attract | Inspiration: Fire
 
 We stand witness to a rare event: the firestorm. The flames streak from ground to sky, swallowing all in its path. This landscape will not be the same for some time; neither, we suspect, will we.
@@ -48,7 +52,7 @@ We stand witness to a rare event: the firestorm. The flames streak from ground t
 2. ![Moment of Reflection Side]
 
 
-# Moment of Reflection (Blue)
+# Moment of Reflection
 Mechanic: Repel | Inspiration: Water
 
 We make camp on the riverbank; to rest, yes, but also to remember. The waterfall stands frozen, a moment captured in time. Light plays tricks in this place, illuminating the path behind us; a reminder of home.
@@ -59,7 +63,7 @@ We make camp on the riverbank; to rest, yes, but also to remember. The waterfall
 2. ![Untamed Ricochet Side]
 
 
-# Untamed Ricochet (Green)
+# Untamed Ricochet
 Mechanic: Deflect | Inspiration: Earth
 
 We walk into the earth. Our voices crash against every surface, forming a pattern as intricate as the rocks worn smooth with time. We venture forward with only the echoes to keep us company.
@@ -70,7 +74,7 @@ We walk into the earth. Our voices crash against every surface, forming a patter
 2. ![Escape Velocity Side]
 
 
-# Escape Velocity (Purple)
+# Escape Velocity
 Mechanic: Lens | Inspiration: Gravity
 
 We arrive at a hidden waypoint. The energy of this city hums and swirls around us, a force of nature unto itself. Our trajectory has been forever affected by the irresistible gravity of the metropolis.
@@ -87,7 +91,7 @@ The colours of the sky shift with the rising sun. Shimmering, cerulean and gold,
 ***
 
 ![Linear Impulse]
-# Linear Impulse (White)
+# Linear Impulse
 Mechanic: Directionals | Inspiration: Wind
 
 Pick a direction, and run with it. You can’t get anywhere without going somewhere.
@@ -95,7 +99,7 @@ Pick a direction, and run with it. You can’t get anywhere without going somewh
 # *
 
 ![Positive Attraction]
-# Positive Attraction (Red)
+# Positive Attraction
 Mechanic: Attract | Inspiration: Fire
 
 Destiny is an irresistible force. You’re welcome to fight against it.
@@ -103,7 +107,7 @@ Destiny is an irresistible force. You’re welcome to fight against it.
 # *
 
 ![Reversal of Fate]
-# Reversal of Fate (Blue)
+# Reversal of Fate
 Mechanic: Repel | Inspiration: Water
 
 Sometimes, you have to go back to where you started to remember why you left.
@@ -111,7 +115,7 @@ Sometimes, you have to go back to where you started to remember why you left.
 # *
 
 ![Point of Impact]
-# Point of Impact (Green)
+# Point of Impact
 Mechanic: Deflect | Inspiration: Earth
 
 On this, the universe is clear: you cannot have an action without equal and opposite reaction.
@@ -119,11 +123,14 @@ On this, the universe is clear: you cannot have an action without equal and oppo
 # *
 
 ![Circular Logic]
-# Circular Logic (Purple)
+# Circular Logic
 Mechanic: Lens | Inspiration: Gravity
 
 You should never underestimate the power of revolution.
 
+
+[Duality]: /content/img/duality.jpg
+[Large Piece Overview]: /content/img/large/overview_pieces_ground.jpg
 [Large Wide]: /content/img/large/large_pieces_wide.jpg
 
 [Onward and Upward]: /content/img/large/close/onward_and_upward.jpg

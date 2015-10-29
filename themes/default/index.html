@@ -34,7 +34,7 @@
 				<ul>
 					{% for page in pages %}
 						{% if page.title != "Index" %}
-						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						<li {% if current_page == page %}class="current"{% endif %}><a href="{{ page.url }}">{{ page.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
@@ -56,7 +56,7 @@
 				<ul>
 					{% for page in pages %}
 						{% if page.title != "Index" %}
-						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						<li {% if current_page == page %}class="current"{% endif %}><a href="{{ page.url }}">{{ page.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>

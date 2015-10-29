@@ -117,10 +117,16 @@ nav li a
 	transition: border-bottom .2s;
 }
 
+nav .current a
+{
+	color: #FFF;
+	font-weight: normal;
+}
+
 nav li a:hover
 {
 	border-bottom: 1px solid white;
-	color: #FFF;
+	color: #FFF;	
 }
 
 ol
@@ -136,9 +142,14 @@ ol li
 	margin: 0px;
 	padding: 0px 20px;
 	display: inline-block;
-	text-transform: uppercase;	
+	text-transform: uppercase;
 }
 
+strong
+{
+	font-weight: normal;
+	color: #000;
+}
 #footer nav
 {
 	padding-bottom: 60px;
@@ -147,6 +158,11 @@ ol li
 #footer nav li a
 {
 	color: #AAA;
+}
+#footer nav .current a
+{
+	color: #000;
+	font-weight: normal;
 }
 
 #footer nav li a:hover

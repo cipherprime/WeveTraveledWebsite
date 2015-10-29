@@ -29,6 +29,3 @@ Cipher Prime is one of the oldest game studios in the heart of brotherly love, P
 
 [Philly Game Forge]: http://www.phillygameforge.com "Philly Game Forge"
 [Philly Dev Night]: http://www.phillydevnight.com "Philly Dev Night"
-
-
-<!— [![Image Name][Image Reference]][Link Reference] —>
