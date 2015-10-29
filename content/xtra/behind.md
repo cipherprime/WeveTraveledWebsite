@@ -68,9 +68,56 @@ Finally, we apply a Depth of Field effect, simulating the focal depth of a real 
 ## 10 Put it Together in Real Time
 All of this is done in real time, yielding an effect unlike any you've seen.
 
+***
 
+![Image 1]
+# Reception
 
+***
 
+![Image 11]
+![Image 12]
+![Image 13]
+# Unity3d and Print Testing
+
+![Image 2]
+# Duality
+
+***
+
+![Image 3]
+![Image 5]
+![Image 14]
+# Sigilis
+
+***
+
+![Image 4]
+![Image 15]
+# PostCard
+
+***
+
+![Image 6]
+![Image 7]
+![Image 8]
+# Booth Construction
+
+***
+
+![Image 9]
+![Image 10]
+
+# Selfie Sleeves
+
+***
+
+![Violin 1]
+![Violin 2]
+![Violin 3]
+![Violin 4]
+![Violin 5]
+# Light Violins
 
 [Raw Depth Input]: /content/img/behind_the_scenes/booth_process/01%20Raw%20Depth%20Input%20-%20scaled.png
 [Surface Mapping]: /content/img/behind_the_scenes/booth_process/02%20Surface%20Mapping%20-%20scaled.png
@@ -88,13 +135,24 @@ All of this is done in real time, yielding an effect unlike any you've seen.
 
 
 
+[Image 1]: /content/img/behind_the_scenes/city%20paper%20october%205th%202015.jpg
+[Image 2]: /content/img/behind_the_scenes/duality.jpg
+[Image 3]: /content/img/behind_the_scenes/IMG_0266.JPG
+[Image 4]: /content/img/behind_the_scenes/IMG_0392.JPG
+[Image 5]: /content/img/behind_the_scenes/IMG_0411.JPG
+[Image 6]: /content/img/behind_the_scenes/IMG_0501.JPG
+[Image 7]: /content/img/behind_the_scenes/IMG_0526.JPG
+[Image 8]: /content/img/behind_the_scenes/IMG_0549.JPG
+[Image 9]: /content/img/behind_the_scenes/IMG_0579.JPG
+[Image 10]: /content/img/behind_the_scenes/IMG_0580.JPG
+[Image 11]: /content/img/behind_the_scenes/IMG_0585.JPG
+[Image 12]: /content/img/behind_the_scenes/IMG_2145.JPG
+[Image 13]: /content/img/behind_the_scenes/IMG_2175.JPG
+[Image 14]: /content/img/behind_the_scenes/IMG_2196.JPG
+[Image 15]: /content/img/behind_the_scenes/postcard_front_printready.png
 
-
-
-# Behind the Scenes
-- the booth
-- virtual photography
-- light violins
-- sigils
-
-# *
+[Violin 1]: /content/img/behind_the_scenes/violins/IMG_2154.JPG
+[Violin 2]: /content/img/behind_the_scenes/violins/IMG_2155.JPG
+[Violin 3]: /content/img/behind_the_scenes/violins/IMG_2156.JPG
+[Violin 4]: /content/img/behind_the_scenes/violins/IMG_2157.JPG
+[Violin 5]: /content/img/behind_the_scenes/violins/IMG_2158.JPG
