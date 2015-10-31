@@ -3,13 +3,24 @@ Title: Behind the Scenes
 Author: Cipher Prime
 */
 
-### Find out more about
-* [The Light Selfie Booth](#selfie_booth)
+### Find out more
+With any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.
 
-# How to Make a Selfie Light Booth
+
+1. [Selfie Booth Digital Construction Process](#)
+2. [Selfie Booth User Testing](#)
+3. [Selfie Booth Construction](#)
+4. [Light and Dark Compositions](#)
+5. [Sigils and Painting](#)
+6. [Original Concept Art](#)
+7. [Postcard](#)
+8. [Light Violins](#)
 
 *** 
 
+# How to Make a Selfie Light Booth
+
+# *
 
 1. ![Raw Depth Input]
 2. ![Surface Mapping]
@@ -70,8 +81,10 @@ All of this is done in real time, yielding an effect unlike anything you've ever
 
 # *
 
-1. ![Selfie Booth in Unity3d]
-2. ![Selfie Booth Print Test]
+![Selfie Booth in Unity3d]
+
+2. ![Selfie Booth Screenshot Test]
+3. ![Selfie Booth Print Test]
 
 # Software and Print Testing
 We created the Selife Light Booth using a popular game engine we're farmiliar with called *Unity3d*. The beams of light were originally created for *Auditorium Duet*, the sequal to our very first game *Auditorium*.
@@ -127,7 +140,7 @@ The world of Auditorium is quite flat. At some point we came up with the idea of
 1. ![Sigil Sketches]
 2. ![Typtic Painting in Progress]
 
-# Sigilis
+# Sigils and Painting
 Each large pieces was printed with archival ink then hand-embelished with their respective sigil's. These sigil's represent the mood and spirit of each world these game elements are encountered in *Auditorium Duet*. Here you can see Sean Marorana from Indy Hall Arts taking a look at our tryptic during it's initial painting process.
 
 ***
@@ -144,6 +157,13 @@ This was our very first art show! Of course we made some baller postcards to cel
 
 # Light Violins
 Not everything makes it into a show. Here was the very first draft of our Light Vilions we were going to use for the window display. 
+
+
+
+* [The Light Selfie Booth](#selfie_booth)
+
+
+
 
 [Raw Depth Input]: /content/img/behind_the_scenes/booth_process/01%20Raw%20Depth%20Input%20-%20scaled.png
 [Surface Mapping]: /content/img/behind_the_scenes/booth_process/02%20Surface%20Mapping%20-%20scaled.png
@@ -180,8 +200,9 @@ Not everything makes it into a show. Here was the very first draft of our Light 
 [Sigil Rubber Block]: /content/img/behind_the_scenes/sigil_rubber_block.jpg
 [Stamped Wax Paper Sleeves]: /content/img/behind_the_scenes/stamped_wax_paper_sleeves.jpg
 
-[Selfie Booth in Unity3d]: /content/img/behind_the_scenes/selfie_booth_unity3d.jpg
+[Selfie Booth Screenshot Test]: /content/img/behind_the_scenes/selfie_booth_unity3d.jpg
 [Selfie Booth Print Test]: /content/img/behind_the_scenes/selfie_booth_first_print.jpg
+[Selfie Booth in Unity3d]: /content/img/behind_the_scenes/selfie_booth_unity3d.png
 
 [Selfie Booth User Test]: /content/img/behind_the_scenes/selfie_booth_user_test.jpg
 

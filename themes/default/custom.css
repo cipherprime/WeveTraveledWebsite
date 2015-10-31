@@ -29,17 +29,18 @@ p
 a
 {
 	text-decoration: none;
-	color: #6EA6CF;
+	color: #777;
 }
 
 a:hover
 {
-	color: #C8ACEA;
+	color: #000;
 }
 
 ul
 {
 	padding: 0px;
+	list-style: none;
 }
 
 hr
