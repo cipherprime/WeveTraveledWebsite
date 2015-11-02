@@ -3,6 +3,8 @@ Title: Behind the Scenes
 Author: Cipher Prime
 */
 
+![Large Piece Overview]
+
 ### Find out more
 With any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.
 
@@ -73,7 +75,7 @@ Finally, we apply a Depth of Field effect, simulating the focal depth of a real 
 # *
 
 <p>
-<iframe src="//player.vimeo.com/video/143423100?autoplay=1&loop=1" width="800" height="1200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/143423100?autoplay=1&loop=1" width="400" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 ## 10 Put it Together in Real Time
@@ -206,7 +208,6 @@ Not everything makes it into a show. Here was the very first draft of our Light 
 
 [Selfie Booth User Test]: /content/img/behind_the_scenes/selfie_booth_user_test.jpg
 
-
-
+[Large Piece Overview]: /content/img/large/overview_pieces_ground.jpg
 
 [Light Violin]: /content/img/behind_the_scenes/violins/light_violin.jpg

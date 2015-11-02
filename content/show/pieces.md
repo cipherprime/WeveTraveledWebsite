@@ -6,11 +6,9 @@ Date: 2013/01/02
 
 ![Large Wide]
 
-![Duality]
 
-![Large Piece Overview]
 
-# The Intention
+# The Obligatory Artistic Statement
 
 *Auditorium* is a game where you bend beams of light to conduct a symphony orchestra. With this show, we wanted to pay homage to a game that has brought us so very far in our lives, both physically and emotionally. Keep in mind, this journey is far from over.
 
@@ -129,9 +127,7 @@ Mechanic: Lens | Inspiration: Gravity
 You should never underestimate the power of revolution.
 
 
-[Duality]: /content/img/duality.jpg
-[Large Piece Overview]: /content/img/large/overview_pieces_ground.jpg
-[Large Wide]: /content/img/large/large_pieces_wide.jpg
+[Large Wide]: /content/img/empty_space.jpg
 
 [Onward and Upward]: /content/img/large/close/onward_and_upward.jpg
 [Whirling Firestorm]: /content/img/large/close/whirling_firestorm.jpg
