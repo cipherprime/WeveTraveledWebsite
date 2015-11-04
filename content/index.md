@@ -17,14 +17,14 @@ This exhibit showcases the light-bending mechanics of *Duet*’s signature contr
 # [The Present][Interactive]
 
 [![Light Selfie Booth][Light Selfie Booth]][Interactive]
-### *Selfie Light Booth*
+### [*Selfie Light Booth*][Interactive]
 
 We’ve all heard, “it’s about the journey, no the destination”. That’s a beautiful and true sentiment, but it also forgets the observer. With this show we wanted to bring up thoughts our your personal journeys and destinations. What better way to bring you into this world, than to physically bring you into it. Take selfies as liquid light pours down your face.
 
 # *
 
 [![Light Photography Booth][Light Photography Booth]][Interactive]
-### *Light Photography Booth*
+### [*Light Photography Booth*][Interactive]
 
 A big part of the show was based around this multi-media technology we created. Each world was hand-crafted to have a feeling and mood, then shot through a process we call virtual photography. We created a unique piece for so you can capture your own perspective.
 

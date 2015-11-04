@@ -155,14 +155,10 @@ This was our very first art show! Of course we made some baller postcards to cel
 
 ***
 
-![Light Violin]:
+![Light Violin]
 
 # Light Violins
 Not everything makes it into a show. Here was the very first draft of our Light Vilions we were going to use for the window display. 
-
-
-
-* [The Light Selfie Booth](#selfie_booth)
 
 
 
