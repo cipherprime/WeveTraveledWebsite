@@ -28,8 +28,8 @@ Showing people in beams of light is pretty cool, but it was important that it wa
 1. ![Selfie 1]
 2. ![Selfie 2]
 
-## Selifes and Sleeves
-Taking selfies would be pointless if you couldn't take them home. We printed the images on the fly at the event them packaged in original hand-stamped wax-paper sleeves.
+## Selfies and Sleeves
+Taking selfies would be pointless if you couldn't take them home. We printed the images on the fly at the event then packaged them in original hand-stamped wax-paper sleeves.
 
 ***
 
@@ -37,7 +37,7 @@ Taking selfies would be pointless if you couldn't take them home. We printed the
 ![Selfie Booth Printer 2]
 
 ## Printing on the Fly
-We used an iPad to allow someone select their photos and a Canon Selphy printer for a fast, detailed print. We also had a black corkboard setup behind the exhibit where you could post selfies, if you wanted to contribute to the atmosphere of the entire event.
+We used an iPad to allow someone to select their photos and a Canon Selphy printer for a fast, detailed print. We also had a black corkboard setup behind the exhibit where you could post selfies, if you wanted to contribute to the atmosphere of the entire event.
 
 ***
 
@@ -49,9 +49,13 @@ We used an iPad to allow someone select their photos and a Canon Selphy printer 
 ## Virtual Photography Booth
 Just as the Selfie Booth brought someone into the experience, we wanted someone to be able to reach into these living, breathing worlds. We setup a turbulent particle sculpture and allowed anyone to create unique compositions using a process we call Virtual Photography.
 
+## &#9679; &#9679; &#9679;
+
 ![Image 5]
 ## Controlled with a PS3 Controller
 For taking our Virtual Photos we needed a lot of control. We mapped our camera rig to a PS3 Controller. With it, you can change position, adjust focal length and exposure, even alter time. You can also switch between the light and dark representations of the streams&mdash;everything you need to capture your shot.
+
+## &#9679; &#9679; &#9679;
 
 ![Image 4]
 ## Final Images Printed
