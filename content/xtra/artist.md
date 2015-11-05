@@ -8,7 +8,7 @@ Date: 2015/11/05
 # Cipher Prime Studios
 Cipher Prime is one of the oldest game studios in the heart of brotherly love, Philadelphia. They’ve received many awards and accolades from the Webbys, Apple, Communication Arts, Wired, Ars Technica, Kotaku, Indiecade, and many more. They’re also hugely influential in helping grow and sustain the game community in Philly with [Philly Dev Night][] and the [Philly Game Forge][]
 
-# *
+## &#9679; &#9679; &#9679;
 
 ### *will stallwood*
 *[@willstall][]*
@@ -18,7 +18,7 @@ Cipher Prime is one of the oldest game studios in the heart of brotherly love, P
 Will is a passionate creator and community evangelist. You can find some neat examples of his work at [willstall.com](http://www.willstall.com). As for community building, go ahead and checkout [Philly Dev Night][] and the [Philadelphia Geek Awards][].
 
 
-# *
+## &#9679; &#9679; &#9679;
 
 ### *dain saint*
 *[@dainsaint][]*

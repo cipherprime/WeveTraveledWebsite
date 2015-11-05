@@ -26,7 +26,7 @@ With any kind of art show, there are so many things that happen behind the curta
 
 # How to Make a Selfie Light Booth
 
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Raw Depth Input]
 2. ![Surface Mapping]
@@ -42,7 +42,7 @@ A Sobel filter is applied to generated a normal map that will be used to add mor
 ### 03 Particle System
 Auditorium Duet's particle system, Rho, uses a dynamically-generated mesh to represent simulated particles as ribbons of light.
 
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Texture and Color]
 2. ![Threshold]
@@ -58,7 +58,7 @@ With a basic threshold, we can remove objects that are too far from the camera.
 ### 06 Depth Displacement
 Using the depth image and the normal map, we distort the particle system to flow across the subject in three dimensions.
 
-# *
+## &#9679; &#9679; &#9679;
 
 
 
@@ -76,7 +76,7 @@ Now, with our virtual camera, we detect distance and use that generate a new dep
 ### 09 Depth of Field
 Finally, we apply a Depth of Field effect, simulating the focal depth of a real camera. This is the final result.
 
-# *
+## &#9679; &#9679; &#9679;
 
 <p>
 <iframe src="//player.vimeo.com/video/143423100?autoplay=1&loop=1" width="400" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -85,7 +85,7 @@ Finally, we apply a Depth of Field effect, simulating the focal depth of a real 
 ## 10 Put it Together in Real Time
 All of this is done in real time, yielding an effect unlike anything you've ever seen.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Selfie Booth in Unity3d]
 
@@ -97,7 +97,7 @@ We created the Selife Light Booth using a popular game engine we're familiar wit
 
 One of our biggest concerns in this whole process was having beauitful, fast, and affordable prints. After quite a few printer tests, we settled on using the *Canon Selphy*. Here is our very first print test on this printer. [Above Right]
 
-# &middot; &middot; &middot;
+## &#9679; &#9679; &#9679;
 
 <div id="selfie_booth_testing">&nbsp;</div>
 
@@ -106,14 +106,14 @@ One of our biggest concerns in this whole process was having beauitful, fast, an
 # User Testing
 We spent quite a while talking about what the process of printing would look like. What kind of experience did we want someone to have when they walked up and played with the booth? How many photos could they take? Ultimately, we decided to use an iPad app software called *Livebooth* to handle these needs. After some extensive testing, we were able to get the process down flawlessly.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Selfie Booth Electronic]
 
 # Hardware
 We used *Arduino* to interface with our Light Selfie Booth Application. We used a glowing white button to take your selfie with two knobs used to control hue and saturation. We have a lot of fun variables to play with, but ultimatly went with this simple interface. It might be cool to add controls for things like particle turbulence in the future.
 
-# *
+## &#9679; &#9679; &#9679;
 
 <div id="selfie_booth_construction">&nbsp;</div>
 
@@ -123,7 +123,7 @@ We used *Arduino* to interface with our Light Selfie Booth Application. We used 
 # Booth Construction
 It's sort of ridiculous how hard it was to find a cheap white presentation platform. Searching online yielded few affordable options, so we opted to create our own. The entire process of creating the booth took around three days. (We even created our own tools, building a square from scrap timber we had laying around.)
 
-# *
+## &#9679; &#9679; &#9679;
 
 <div id="selfie_presentation">&nbsp;</div>
 

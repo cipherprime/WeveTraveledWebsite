@@ -33,7 +33,7 @@ Mechanic: Directionals | Inspiration: Wind
 
 We look out on the morning; a single cloud on the horizon. It beckons us onward, thoughts scattered to the four winds. We have traveled so far, but our journey is far from over…
 	
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Whirling Firestorm]
 2. ![Whirling Firestorm Side]
@@ -44,7 +44,7 @@ Mechanic: Attract | Inspiration: Fire
 
 We stand witness to a rare event: the firestorm. The flames streak from ground to sky, swallowing all in its path. This landscape will not be the same for some time; neither, we suspect, will we.
 
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Moment of Reflection]
 2. ![Moment of Reflection Side]
@@ -55,7 +55,7 @@ Mechanic: Repel | Inspiration: Water
 
 We make camp on the riverbank; to rest, yes, but also to remember. The waterfall stands frozen, a moment captured in time. Light plays tricks in this place, illuminating the path behind us; a reminder of home.
 
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Untamed Ricochet]
 2. ![Untamed Ricochet Side]
@@ -66,7 +66,7 @@ Mechanic: Deflect | Inspiration: Earth
 
 We walk into the earth. Our voices crash against every surface, forming a pattern as intricate as the rocks worn smooth with time. We venture forward with only the echoes to keep us company.
 
-# *
+## &#9679; &#9679; &#9679;
 
 1. ![Escape Velocity]
 2. ![Escape Velocity Side]
@@ -94,7 +94,7 @@ Mechanic: Directionals | Inspiration: Wind
 
 Pick a direction, and run with it. You can’t get anywhere without going somewhere.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Positive Attraction]
 # Positive Attraction
@@ -102,7 +102,7 @@ Mechanic: Attract | Inspiration: Fire
 
 Destiny is an irresistible force. You’re welcome to fight against it.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Reversal of Fate]
 # Reversal of Fate
@@ -110,7 +110,7 @@ Mechanic: Repel | Inspiration: Water
 
 Sometimes, you have to go back to where you started to remember why you left.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Point of Impact]
 # Point of Impact
@@ -118,7 +118,7 @@ Mechanic: Deflect | Inspiration: Earth
 
 On this, the universe is clear: you cannot have an action without equal and opposite reaction.
 
-# *
+## &#9679; &#9679; &#9679;
 
 ![Circular Logic]
 # Circular Logic

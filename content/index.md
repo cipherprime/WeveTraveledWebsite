@@ -22,7 +22,7 @@ This exhibit showcases the light-bending mechanics of *Duet*’s signature contr
 
 We’ve all heard, “It’s about the journey, not the destination”. That’s a beautiful sentiment, but it also forgets the traveler. With this show, we wanted to bring up memories of your own personal journeys and destinations. What better way to bring you into our world than to physically bring you into it. This light booth brings you into the experience, allowing you to take selfies as liquid light pours down your face.
 
-# *
+## &#9679; &#9679; &#9679;
 
 [![Light Photography Booth][Light Photography Booth]][Interactive]
 ### [*Light Photography Booth*][Interactive]
