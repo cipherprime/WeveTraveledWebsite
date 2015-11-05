@@ -9,16 +9,19 @@ Author: Cipher Prime
 With any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.
 
 
-1. [Selfie Booth Digital Construction Process](#)
-2. [Selfie Booth User Testing](#)
-3. [Selfie Booth Construction](#)
-4. [Light and Dark Compositions](#)
-5. [Sigils and Painting](#)
-6. [Original Concept Art](#)
-7. [Postcard](#)
-8. [Light Violins](#)
+1. [Selfie Booth Digital Construction Process](#selfie_booth)
+2. [Selfie Booth User Testing](#selfie_booth_testing)
+3. [Selfie Booth Construction](#selfie_button_constrution)
+3. [Selfie Presentation](#selfie_presentation)
+4. [Light and Dark Compositions](#light_and_dark)
+5. [Sigils and Painting](#sigils)
+6. [Original Concept Art](#concept)
+7. [Postcard](#postcard)
+8. [Light Violins](#violins)
 
 *** 
+
+<div id="selfie_booth">&nbsp;</div>
 
 # How to Make a Selfie Light Booth
 
@@ -56,7 +59,7 @@ Using the depth image and the normal map, we distort the particle system to flow
 
 # *
 
-<div id="#selfie_booth"></div>
+
 
 1. ![Camera Bloom]
 2. ![Depth Masking]
@@ -95,6 +98,8 @@ One of our biggest concerns in this whole process was having beauitful, fast, an
 
 # *
 
+<div id="selfie_booth_testing">&nbsp;</div>
+
 ![Selfie Booth User Test]
 
 # Full User Testing
@@ -109,6 +114,8 @@ We used *Arduino* to interface with our Light Selfie Booth Application. We used 
 
 # *
 
+<div id="selfie_booth_construction">&nbsp;</div>
+
 1. ![Selfie Booth Construction]
 2. ![Selfie Booth Without Top]
 
@@ -116,6 +123,8 @@ We used *Arduino* to interface with our Light Selfie Booth Application. We used 
 It's sort of ridiculous how hard it was to find a cheap white presentation platform. Searching online yielded few affordable options, so we opted to create out own. The entire process of creating the booth took around 3 days. We also created our own square tool from scrap timbler we had laying around.
 
 # *
+
+<div id="selfie_presentation">&nbsp;</div>
 
 1. ![Sigil Rubber Block]
 2. ![Stamped Wax Paper Sleeves]
@@ -125,6 +134,8 @@ Art is all about the experience, so we created Wax Paper Sleeves by carving the 
 
 ***
 
+<div id="light_and_dark">&nbsp;</div>
+
 ![Light and Dark Compositions]
 
 # Showing Duality Between the Past and the Future
@@ -132,12 +143,16 @@ From the moment we had accepted the challenge of creating this show, we knew we 
 
 ***
 
+<div id="concept">&nbsp;</div>
+
 ![Original Concept Art]
 
 # Original Concept Art
 The world of Auditorium is quite flat. At some point we came up with the idea of using the background of the game as a horizon line to create unique compositions. With the thought of creating a brand new rendered in mind, this was the final concept design that was created before development of this new rendering technique was kicked off.
 
 ***
+
+<div id="sigils">&nbsp;</div>
 
 1. ![Sigil Sketches]
 2. ![Typtic Painting in Progress]
@@ -147,6 +162,8 @@ Each large pieces was printed with archival ink then hand-embelished with their 
 
 ***
 
+<div id="postcard">&nbsp;</div>
+
 1. ![First Draft Postcard]
 2. ![Print Ready Postcard]
 
@@ -154,6 +171,8 @@ Each large pieces was printed with archival ink then hand-embelished with their 
 This was our very first art show! Of course we made some baller postcards to celebrate. Our initial concept used the title *Auditorium Duet* before we had completely finalized the show name *We've Traveled So Far*.
 
 ***
+
+<div id="violins">&nbsp;</div>
 
 ![Light Violin]
 

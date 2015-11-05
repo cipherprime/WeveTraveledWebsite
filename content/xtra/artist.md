@@ -13,7 +13,7 @@ Cipher Prime is one of the oldest game studios in the heart of brotherly love, P
 ### *will stallwood*
 *[@willstall][]*
 
-![image]
+![Will Stallwood]
 
 Will is a passionate creator and community evangalist. You can find some neat examples of his work at http://www.willstall.com. As for community building, go ahead and checkout Philly Dev Night and the Philadelphia Geek Awards. He's the Prime.
 
@@ -23,13 +23,15 @@ Will is a passionate creator and community evangalist. You can find some neat ex
 ### *dain saint*
 *[@dainsaint][]*
 
-![image]
+![Dain Saint]
 
 Dain is a reanasance man of many trades; music, games, robots. If you'd ever like to look at the world in a new light, why not checkout his amazing GDC Speeach? He's the Cipher.
 
 
 
-[Artists]: /content/img/artists.png
+[Artists]: /content/img/artists/will_and_dain.png
+[Will Stallwood]: /content/img/artists/will.png
+[Dain Saint]: /content/img/artists/dain.png
 
 [@willstall]: http://www.twitter.com/willstall "William Stallwood"
 [@dainsaint]: http://www.twitter.com/dainsaint "William Stallwood"
