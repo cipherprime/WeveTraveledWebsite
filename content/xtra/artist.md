@@ -1,12 +1,12 @@
 /*
 Title: Artists
 Author: Cipher Prime
-Date: 2013/01/03
+Date: 2015/11/05
 */
 
 ![Artists][Artists]
 # Cipher Prime Studios
-Cipher Prime is one of the oldest game studios in the heart of brotherly love, Philadelphia. They’ve received many accolades including Webby’s, Apple Editor’s Choice, Communication Arts, Wired, Ars Technica, Kotaku, Indiecade, and many more. They’re also hugely influential in helping grow and sustain the game community in Philly with [Philly Dev Night][] and running the [Philly Game Forge][]
+Cipher Prime is one of the oldest game studios in the heart of brotherly love, Philadelphia. They’ve received many awards and accolades from the Webbys, Apple, Communication Arts, Wired, Ars Technica, Kotaku, Indiecade, and many more. They’re also hugely influential in helping grow and sustain the game community in Philly with [Philly Dev Night][] and the [Philly Game Forge][]
 
 # *
 
@@ -15,7 +15,7 @@ Cipher Prime is one of the oldest game studios in the heart of brotherly love, P
 
 ![Will Stallwood]
 
-Will is a passionate creator and community evangalist. You can find some neat examples of his work at http://www.willstall.com. As for community building, go ahead and checkout Philly Dev Night and the Philadelphia Geek Awards. He's the Prime.
+Will is a passionate creator and community evangelist. You can find some neat examples of his work at [willstall.com](http://www.willstall.com). As for community building, go ahead and checkout [Philly Dev Night][] and the [Philadelphia Geek Awards][].
 
 
 # *
@@ -25,7 +25,7 @@ Will is a passionate creator and community evangalist. You can find some neat ex
 
 ![Dain Saint]
 
-Dain is a reanasance man of many trades; music, games, robots. If you'd ever like to look at the world in a new light, why not checkout his amazing GDC Speeach? He's the Cipher.
+Dain is a man of many trades; music, writing, games, and robots. Check out his site at [dainsaint.com](http://www.dainsaint.com). If you'd ever like to look at the world in a new light, why not check out his [GDC Talk][]?
 
 
 
@@ -34,7 +34,10 @@ Dain is a reanasance man of many trades; music, games, robots. If you'd ever lik
 [Dain Saint]: /content/img/artists/dain.png
 
 [@willstall]: http://www.twitter.com/willstall "William Stallwood"
-[@dainsaint]: http://www.twitter.com/dainsaint "William Stallwood"
+[@dainsaint]: http://www.twitter.com/dainsaint "Dain Saint"
 
 [Philly Game Forge]: http://www.phillygameforge.com "Philly Game Forge"
 [Philly Dev Night]: http://www.phillydevnight.com "Philly Dev Night"
+
+[Philadelphia Geek Awards]: http://www.philadelphiageekawards.com "Philadelphia Geek Awards"
+[GDC Talk]: https://www.youtube.com/watch?v=25lDS1tqKzs

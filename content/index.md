@@ -1,6 +1,7 @@
 /*
 Title: Show
 Author: Cipher Prime
+Date: 2015/11/05
 */
 
 ![Overview][Overview]
@@ -8,7 +9,7 @@ Author: Cipher Prime
 # The Story
 *[Auditorium]* marked the beginning of [Cipher Prime], [Dain Saint] and [Will Stallwood]’s development studio. The duo returned to that humble beginning to create *[Auditorium Duet]*, a sequel designed to explore the sacred space of their collaborative process. Since 2012, the project has followed a long and emotionally taxing journey. *Duet* is not yet finished, and Cipher Prime is still working hard.
  
-*”We’ve Traveled So Far…”* is a celebration of that on-going journey. 
+*”We’ve Traveled So Far…”* is a celebration of that ongoing journey. 
  
 This exhibit showcases the light-bending mechanics of *Duet*’s signature controls, vibrantly rendered colours, rich graphic design, and lush orchestration. This living world, captured with virtual photography and painstakingly hand-embellished, is now yours to witness.
 
@@ -19,14 +20,14 @@ This exhibit showcases the light-bending mechanics of *Duet*’s signature contr
 [![Light Selfie Booth][Light Selfie Booth]][Interactive]
 ### [*Selfie Light Booth*][Interactive]
 
-We’ve all heard, “it’s about the journey, no the destination”. That’s a beautiful and true sentiment, but it also forgets the observer. With this show we wanted to bring up thoughts our your personal journeys and destinations. What better way to bring you into this world, than to physically bring you into it. Take selfies as liquid light pours down your face.
+We’ve all heard, “It’s about the journey, not the destination”. That’s a beautiful sentiment, but it also forgets the traveler. With this show, we wanted to bring up memories of your own personal journeys and destinations. What better way to bring you into our world than to physically bring you into it. This light booth brings you into the experience, allowing you to take selfies as liquid light pours down your face.
 
 # *
 
 [![Light Photography Booth][Light Photography Booth]][Interactive]
 ### [*Light Photography Booth*][Interactive]
 
-A big part of the show was based around this multi-media technology we created. Each world was hand-crafted to have a feeling and mood, then shot through a process we call virtual photography. We created a unique piece for so you can capture your own perspective.
+The heart of the show was based around the core game engine of *Duet*. Each world was hand-crafted to have a feeling and mood, then captured through a process we call Virtual Photography. We then created a unique piece for you to capture your own perspective.
 
 ***
 
@@ -34,7 +35,7 @@ A big part of the show was based around this multi-media technology we created. 
 
 [![Large Pieces][Large Pieces]][Pieces]
 
-The show featured 5 Large pieces that each represent a mood, game mechanic, and also element present in the beautiful world of Auditorium. These pieces speak of the promise to build a unique light musical world.
+The show featured five large pieces that each represent a mood, game mechanic, and element present in the beautiful world of Auditorium. These pieces speak of the promise to build a unique light musical world.
 
 ***
 
@@ -42,7 +43,7 @@ The show featured 5 Large pieces that each represent a mood, game mechanic, and 
 
 [![Medium Pieces][Medium Pieces]][Pieces]
 
-Each Large Piece has it’s own dark counterpart. These pieces represent the past, showing a large resemblance from our very first game made in 2008. At the same time, they show a duality and sameness of the future pieces sharing the exact same visual composition and color.
+Each large piece has its own dark counterpart. These pieces represent the past, sharing the aesthetic of our very first game made in 2008. At the same time, they form a duality with the future pieces, sharing the exact same visual composition and color.
 
 
 

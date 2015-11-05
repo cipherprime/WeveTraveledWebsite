@@ -1,6 +1,7 @@
 /*
 Title: Behind the Scenes
 Author: Cipher Prime
+Date: 2015/11/05
 */
 
 ![Large Piece Overview]
@@ -92,25 +93,25 @@ All of this is done in real time, yielding an effect unlike anything you've ever
 3. ![Selfie Booth Print Test]
 
 # Software and Print Testing
-We created the Selife Light Booth using a popular game engine we're farmiliar with called *Unity3d*. The beams of light were originally created for *Auditorium Duet*, the sequal to our very first game *Auditorium*.
+We created the Selife Light Booth using a popular game engine we're familiar with called *Unity3d*. The beams of light were originally created for *Auditorium Duet*, the sequel to our very first game *Auditorium*.
 
-One of our biggest concerns in this whole process was having beauitful, fast, and affordable prints. After quite a few printer tests, we settled on using a *Canon Selphie*. Here is our very first print test on this printer. [Above Right]
+One of our biggest concerns in this whole process was having beauitful, fast, and affordable prints. After quite a few printer tests, we settled on using the *Canon Selphy*. Here is our very first print test on this printer. [Above Right]
 
-# *
+# &middot; &middot; &middot;
 
 <div id="selfie_booth_testing">&nbsp;</div>
 
 ![Selfie Booth User Test]
 
-# Full User Testing
-We spent quite awhile talking about what the process of printing would look like. What was the kind of experience we wanted someone to have when they walked up and played with the booth? How many photos could they take? Ultimately, we decided to use a piece of iPad software called *Lite Booth* to handle these needs. After some extensive testing, we were able to get the process down flawlessly.
+# User Testing
+We spent quite a while talking about what the process of printing would look like. What kind of experience did we want someone to have when they walked up and played with the booth? How many photos could they take? Ultimately, we decided to use an iPad app software called *Livebooth* to handle these needs. After some extensive testing, we were able to get the process down flawlessly.
 
 # *
 
 ![Selfie Booth Electronic]
 
 # Hardware
-We used *Arduino* to interface with our Light Selfie Booth Application. We used a glowing white button for taking your selfie with two knobs used to control hue and saturation. We have a lot of fun variables to with, but ultimatly went with this simple interface. It might be cool to add controls for things like turbulence in the future.
+We used *Arduino* to interface with our Light Selfie Booth Application. We used a glowing white button to take your selfie with two knobs used to control hue and saturation. We have a lot of fun variables to play with, but ultimatly went with this simple interface. It might be cool to add controls for things like particle turbulence in the future.
 
 # *
 
@@ -120,7 +121,7 @@ We used *Arduino* to interface with our Light Selfie Booth Application. We used 
 2. ![Selfie Booth Without Top]
 
 # Booth Construction
-It's sort of ridiculous how hard it was to find a cheap white presentation platform. Searching online yielded few affordable options, so we opted to create out own. The entire process of creating the booth took around 3 days. We also created our own square tool from scrap timbler we had laying around.
+It's sort of ridiculous how hard it was to find a cheap white presentation platform. Searching online yielded few affordable options, so we opted to create our own. The entire process of creating the booth took around three days. (We even created our own tools, building a square from scrap timber we had laying around.)
 
 # *
 
@@ -130,7 +131,7 @@ It's sort of ridiculous how hard it was to find a cheap white presentation platf
 2. ![Stamped Wax Paper Sleeves]
 
 # Selfie Sleeves
-Art is all about the experience, so we created Wax Paper Sleeves by carving the Auditorium Duet Logo into a Rubber Block and hand stamping them. This was a very lengthly process, but yield a nice simple and sexy result.
+Art is all about the experience, so we created Wax Paper Sleeves by carving the Auditorium Duet Logo into a Rubber Block and hand-stamping them. This was a very lengthly process, but yielded a simple, elegant result.
 
 ***
 
@@ -139,7 +140,7 @@ Art is all about the experience, so we created Wax Paper Sleeves by carving the 
 ![Light and Dark Compositions]
 
 # Showing Duality Between the Past and the Future
-From the moment we had accepted the challenge of creating this show, we knew we wanted to offer at least 3 scales of pieces. But more important, we also knew we wanted the medium and large pieces to mirror each other. A lot of care and craftsmanship went into making sure we could portay both worlds with the exact same content.
+From the moment we had accepted the challenge of creating this show, we knew we wanted to offer at least three scales of pieces. But more importantly, we also knew we wanted the medium and large pieces to mirror each other. A lot of care and craftsmanship went into making sure we could portay both worlds with the exact same content.
 
 ***
 
@@ -148,7 +149,7 @@ From the moment we had accepted the challenge of creating this show, we knew we 
 ![Original Concept Art]
 
 # Original Concept Art
-The world of Auditorium is quite flat. At some point we came up with the idea of using the background of the game as a horizon line to create unique compositions. With the thought of creating a brand new rendered in mind, this was the final concept design that was created before development of this new rendering technique was kicked off.
+The world of Auditorium is quite flat. At some point, we decided to use the background of the game as a horizon line to create unique compositions. With the thought of creating a brand new renderer firmly in mind, this was the final concept design that we created before developing this new rendering technique.
 
 ***
 
@@ -158,7 +159,7 @@ The world of Auditorium is quite flat. At some point we came up with the idea of
 2. ![Typtic Painting in Progress]
 
 # Sigils and Painting
-Each large pieces was printed with archival ink then hand-embelished with their respective sigil's. These sigil's represent the mood and spirit of each world these game elements are encountered in *Auditorium Duet*. Here you can see Sean Marorana from Indy Hall Arts taking a look at our tryptic during it's initial painting process.
+Each large piece was printed with archival ink then hand-embellished with their respective sigils. These sigils represent the mood and spirit of each world these game elements are encountered in *Auditorium Duet*. Here you can see Sean Martorana from Indy Hall Arts taking a look at our tryptic during its initial painting process.
 
 ***
 
@@ -168,7 +169,7 @@ Each large pieces was printed with archival ink then hand-embelished with their 
 2. ![Print Ready Postcard]
 
 # PostCard
-This was our very first art show! Of course we made some baller postcards to celebrate. Our initial concept used the title *Auditorium Duet* before we had completely finalized the show name *We've Traveled So Far*.
+This was our very first art show! Of course we made some baller postcards to both celebrate and promote. Our initial concept used the game title *Auditorium Duet* before we had completely finalized the show name, *We've Traveled So Far*.
 
 ***
 
@@ -177,7 +178,7 @@ This was our very first art show! Of course we made some baller postcards to cel
 ![Light Violin]
 
 # Light Violins
-Not everything makes it into a show. Here was the very first draft of our Light Vilions we were going to use for the window display. 
+Not everything we tried made it into the show. Here is a prototype of the Light Violins we were going to use for the window display.
 
 
 
