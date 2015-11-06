@@ -2,6 +2,7 @@
 Title: Interactive
 Author: Cipher Prime
 Date: 2015/11/05
+Description: This show was about so much more than just exploring our journey. We really wanted viewers to come in and reflect on journeys traveled or still in transit. What better way to have someone put themselves into this frame of reference than putting them into the art?
 */
 
 ![Selfie Booth Button]

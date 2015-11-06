@@ -2,6 +2,7 @@
 Title: Artists
 Author: Cipher Prime
 Date: 2015/11/05
+Description: Cipher Prime is one of the oldest game studios in the heart of brotherly love, Philadelphia. They’ve received many awards and accolades from the Webbys, Apple, Communication Arts, Wired, Ars Technica, Kotaku, Indiecade, and many more. They’re also hugely influential in helping grow and sustain the game community in Philly with Philly Dev Night and the Philly Game Forge.
 */
 
 ![Artists][Artists]

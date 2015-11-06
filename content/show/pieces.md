@@ -2,6 +2,7 @@
 Title: Pieces
 Author: Cipher Prime
 Date: 2013/01/02
+Description: For each piece, we created a digital world using the popular game engine Unity3D—and a lot of ingenuity. Each section of Auditorium introduces a new way to play with light and sound. Each piece you see on the wall is not just a tribute to these sections of the game—they were actually created using the game itself.
 */
 
 ![Large Wide]

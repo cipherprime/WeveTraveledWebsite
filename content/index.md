@@ -2,6 +2,7 @@
 Title: Show
 Author: Cipher Prime
 Date: 2015/11/05
+Description: Auditorium marked the beginning of Cipher Prime, Dain Saint and Will Stallwood’s development studio. The duo returned to that humble beginning to create Auditorium Duet Auditorium Duet, a sequel designed to explore the sacred space of their collaborative process. Since 2012, the project has followed a long and emotionally taxing journey. *Duet* is not yet finished, and Cipher Prime is still working hard.
 */
 
 ![Overview][Overview]

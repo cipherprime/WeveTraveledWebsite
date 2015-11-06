@@ -2,6 +2,7 @@
 Title: Behind the Scenes
 Author: Cipher Prime
 Date: 2015/11/05
+Description: With any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.
 */
 
 ![Large Piece Overview]
