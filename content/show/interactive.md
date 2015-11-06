@@ -18,7 +18,7 @@ Simply walk up to the booth and **pickup the thingy** ( a *Leap Motion* IR devic
 
 
 
-## Selife Booth
+## Selfie Booth
 Showing people in beams of light is pretty cool, but it was important that it wasn't perfect. We spent a great deal of time deciding where that fine line was between detail and abstraction.
 
 ***
@@ -46,8 +46,14 @@ We used an iPad to allow someone to select their photos and a Canon Selphy print
 ![Image 3]
 ![Image 2]
 
+<p>
+<iframe src="//player.vimeo.com/video/143431593?autoplay=1&loop=1" width="800" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
+
 ## Virtual Photography Booth
 Just as the Selfie Booth brought someone into the experience, we wanted someone to be able to reach into these living, breathing worlds. We setup a turbulent particle sculpture and allowed anyone to create unique compositions using a process we call Virtual Photography.
+
+
 
 ## &#9679; &#9679; &#9679;
 
@@ -73,7 +79,7 @@ Just as you could print out the selfies, you could print any original compositio
 [Selfie 1]: /content/img/interactive/selfie/selfie_1.jpg
 [Selfie 2]: /content/img/interactive/selfie/selfie_2.jpg
 [Selfie Booth 1]: /content/img/interactive/selfie/selfie_booth_1.jpg
-[Selfie Booth 2]: /content/img/interactive/selfie/selfie_booth_2.jpg
+[Selfie Booth 2]: /content/img/interactive/selfie/selfie_demo.gif
 [Selfie Booth Button]: /content/img/interactive/selfie/selfie_booth_button.jpg
 
 [Selfie Booth Printer 1]: /content/img/interactive/selfie/selfie_booth_printing_1.jpg

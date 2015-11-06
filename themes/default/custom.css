@@ -189,6 +189,31 @@ strong
 }
 
 
+#content a:nth-of-type(5n+0)
+{
+	color: #360A5C;
+}
+
+#content a:nth-of-type(5n+1)
+{
+	color: #701666;
+}
+
+#content a:nth-of-type(5n+2)
+{
+	color: #A62D4F;
+}
+
+#content a:nth-of-type(5n+3)
+{
+	color: #C75746;
+}
+
+#content a:nth-of-type(5n+4)
+{
+	color: #F2B763;
+}
+
 /*
 #content ul
 {
