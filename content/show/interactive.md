@@ -47,7 +47,7 @@ We used an iPad to allow someone to select their photos and a Canon Selphy print
 ![Image 2]
 
 <p>
-<iframe src="//player.vimeo.com/video/143431593?autoplay=1&loop=1" width="800" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/143431593?&loop=1" width="800" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 ## Virtual Photography Booth
