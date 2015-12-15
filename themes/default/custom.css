@@ -219,6 +219,30 @@ strong
 	font-size: 80%;
 }
 
+h4 a
+{
+	background: #6F87B5;
+	color: #FFF !important;
+	border-radius: 3px;
+	padding: 8px;
+	display: inline-block;
+}
+
+h4 a:hover
+{
+	background: #52EA63;
+}
+
+#footer p a
+{
+	color: #C94DAF;
+}
+
+#footer p a:hover
+{
+	text-decoration: underline;
+}
+
 /*
 #content ul
 {

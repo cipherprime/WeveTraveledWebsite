@@ -7,8 +7,6 @@ Description: For each piece, we created a digital world using the popular game e
 
 ![Large Wide]
 
-
-
 # The Obligatory Artistic Statement
 
 *Auditorium* is a game where you bend beams of light to conduct a symphony orchestra. With this show, we wanted to pay homage to a game that has brought us so very far in our lives, both physically and emotionally. Keep in mind, this journey is far from over.
@@ -23,6 +21,8 @@ In the world of Auditorium each movement is represented with a Sigil. These Sigi
 
 It is our hope that when you look back at how far you’ve come on your journey, you will also appreciate it from the myriad angles of life.
 
+
+
 ***
 
 1. ![Onward and Upward]
@@ -30,10 +30,14 @@ It is our hope that when you look back at how far you’ve come on your journey,
 
 
 # Onward and Upward
+#### [Purchase a Print][Print_Onward]
+
 Mechanic: Directionals | Inspiration: Wind
 
 We look out on the morning; a single cloud on the horizon. It beckons us onward, thoughts scattered to the four winds. We have traveled so far, but our journey is far from over…
-	
+
+
+
 ## &#9679; &#9679; &#9679;
 
 1. ![Whirling Firestorm]
@@ -41,6 +45,8 @@ We look out on the morning; a single cloud on the horizon. It beckons us onward,
 
 
 # Whirling Firestorm
+#### [Purchase a Print][Print_Firestorm] 
+
 Mechanic: Attract | Inspiration: Fire
 
 We stand witness to a rare event: the firestorm. The flames streak from ground to sky, swallowing all in its path. This landscape will not be the same for some time; neither, we suspect, will we.
@@ -52,6 +58,8 @@ We stand witness to a rare event: the firestorm. The flames streak from ground t
 
 
 # Moment of Reflection
+#### [Purchase a Print][Print_Reflection]
+
 Mechanic: Repel | Inspiration: Water
 
 We make camp on the riverbank; to rest, yes, but also to remember. The waterfall stands frozen, a moment captured in time. Light plays tricks in this place, illuminating the path behind us; a reminder of home.
@@ -63,6 +71,8 @@ We make camp on the riverbank; to rest, yes, but also to remember. The waterfall
 
 
 # Untamed Ricochet
+#### [Purchase a Print][Print_Richochet]
+
 Mechanic: Deflect | Inspiration: Earth
 
 We walk into the earth. Our voices crash against every surface, forming a pattern as intricate as the rocks worn smooth with time. We venture forward with only the echoes to keep us company.
@@ -74,6 +84,8 @@ We walk into the earth. Our voices crash against every surface, forming a patter
 
 
 # Escape Velocity
+#### [Purchase a Print][Print_Velocity]
+
 Mechanic: Lens | Inspiration: Gravity
 
 We arrive at a hidden waypoint. The energy of this city hums and swirls around us, a force of nature unto itself. Our trajectory has been forever affected by the irresistible gravity of the metropolis.
@@ -91,6 +103,8 @@ The colours of the sky shift with the rising sun. Shimmering, cerulean and gold,
 
 ![Linear Impulse]
 # Linear Impulse
+#### [Purchase a Print][Print_Linear]
+
 Mechanic: Directionals | Inspiration: Wind
 
 Pick a direction, and run with it. You can’t get anywhere without going somewhere.
@@ -99,6 +113,8 @@ Pick a direction, and run with it. You can’t get anywhere without going somewh
 
 ![Positive Attraction]
 # Positive Attraction
+#### [Purchase a Print][Print_Attraction]
+
 Mechanic: Attract | Inspiration: Fire
 
 Destiny is an irresistible force. You’re welcome to fight against it.
@@ -107,6 +123,8 @@ Destiny is an irresistible force. You’re welcome to fight against it.
 
 ![Reversal of Fate]
 # Reversal of Fate
+#### [Purchase a Print][Print_Reversal]
+
 Mechanic: Repel | Inspiration: Water
 
 Sometimes, you have to go back to where you started to remember why you left.
@@ -115,6 +133,8 @@ Sometimes, you have to go back to where you started to remember why you left.
 
 ![Point of Impact]
 # Point of Impact
+#### [Purchase a Print][Print_Impact]
+
 Mechanic: Deflect | Inspiration: Earth
 
 On this, the universe is clear: you cannot have an action without equal and opposite reaction.
@@ -123,10 +143,14 @@ On this, the universe is clear: you cannot have an action without equal and oppo
 
 ![Circular Logic]
 # Circular Logic
+#### [Purchase a Print][Print_Logic]
+
 Mechanic: Lens | Inspiration: Gravity
 
 You should never underestimate the power of revolution.
 
+
+[Contact]: mailto://team@cipherprime.com
 
 [Large Wide]: /content/img/empty_space.jpg
 
@@ -149,3 +173,16 @@ You should never underestimate the power of revolution.
 [Reversal of Fate]: /content/img/medium/reversal_of_fate.jpg
 [Point of Impact]: /content/img/medium/point_of_impact.jpg
 [Circular Logic]: /content/img/medium/circular_logic.jpg
+
+
+
+[Print_Onward]: https://society6.com/product/onward-and-upward-1se_print
+[Print_Firestorm]: https://society6.com/product/whirling-firestorm_print
+[Print_Reflection]: https://society6.com/product/moment-of-reflection-7f0_print
+[Print_Richochet]: https://society6.com/product/untamed-ricochet_print
+[Print_Velocity]: https://society6.com/product/escape-velocity-sxh_print
+[Print_Linear]: https://society6.com/product/linear-impulse_print
+[Print_Attraction]: https://society6.com/product/positive-attraction_print
+[Print_Reversal]: https://society6.com/product/reversal-of-fate_print
+[Print_Impact]: https://society6.com/product/point-of-impact_print
+[Print_Logic]: https://society6.com/product/circular-logic-k9k_print

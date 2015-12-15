@@ -520,14 +520,6 @@
 	"buffers":
 	[
 		{
-			"file": "content/lightbooth.md",
-			"settings":
-			{
-				"buffer_size": 2779,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "config/config.php",
 			"settings":
 			{
@@ -539,7 +531,15 @@
 			"file": "content/index.md",
 			"settings":
 			{
-				"buffer_size": 1414,
+				"buffer_size": 3428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/rendering/shaders/DisplacementMapRho.shader",
+			"settings":
+			{
+				"buffer_size": 2971,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +547,7 @@
 			"file": "themes/default/index.html",
 			"settings":
 			{
-				"buffer_size": 1447,
+				"buffer_size": 2895,
 				"line_ending": "Windows"
 			}
 		},
@@ -555,7 +555,7 @@
 			"file": "themes/default/custom.css",
 			"settings":
 			{
-				"buffer_size": 1283,
+				"buffer_size": 2760,
 				"line_ending": "Unix"
 			}
 		}
@@ -639,6 +639,7 @@
 	],
 	"file_history":
 	[
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/lightbooth.md",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationRadial.cs",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/process.md",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/index.md",
@@ -765,8 +766,7 @@
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/LetterSpacing.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/DrawRectAtCameraDepth.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/TransformEditor.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/DistributeEditor.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/flightwall.sublime-project"
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/DistributeEditor.cs"
 	],
 	"find":
 	{
@@ -932,39 +932,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/lightbooth.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2779,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1910,
-								1910
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "config/config.php",
 					"semi_transient": false,
 					"settings":
@@ -988,24 +960,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "content/index.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1414,
+						"buffer_size": 3428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								274,
-								94
+								1298,
+								1298
 							]
 						],
 						"settings":
@@ -1016,7 +988,37 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/rendering/shaders/DisplacementMapRho.shader",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2834,
+								2834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShaderLanguages/Unity ShaderLab.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1025,15 +1027,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1447,
+						"buffer_size": 2895,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								948,
-								948
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1054,15 +1056,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1283,
+						"buffer_size": 2760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1283,
-								1283
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1074,7 +1076,7 @@
 						"translation.y": 774.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
