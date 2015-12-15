@@ -219,6 +219,21 @@ strong
 	font-size: 80%;
 }
 
+#footer p a
+{
+	color: #C75746;
+}
+
+#footer p a:hover
+{
+	text-decoration: underline;
+}
+
+#footer nav p
+{
+	font-size: 100%;
+}
+
 h4 a
 {
 	background: #6F87B5;
@@ -233,15 +248,7 @@ h4 a:hover
 	background: #52EA63;
 }
 
-#footer p a
-{
-	color: #C94DAF;
-}
 
-#footer p a:hover
-{
-	text-decoration: underline;
-}
 
 /*
 #content ul
