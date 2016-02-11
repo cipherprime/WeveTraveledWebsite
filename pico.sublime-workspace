@@ -536,26 +536,37 @@
 			}
 		},
 		{
-			"file": "/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/rendering/shaders/DisplacementMapRho.shader",
+			"file": "themes/default/index.html",
 			"settings":
 			{
-				"buffer_size": 2971,
+				"buffer_size": 3223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/*\nTitle: Behind the Scenes\nAuthor: Cipher Prime\nDate: 2015/11/05\nDescription: With any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.\n*/\n\n![Large Piece Overview]\n\n### Find out more\nWith any kind of art show, there are so many things that happen behind the curtain. We really wanted to pull that back a little. Here are some general sections of good stuff.\n\n\n1. [Selfie Booth Digital Construction Process](#selfie_booth)\n2. [Selfie Booth User Testing](#selfie_booth_testing)\n3. [Selfie Booth Construction](#selfie_button_constrution)\n3. [Selfie Presentation](#selfie_presentation)\n4. [Light and Dark Compositions](#light_and_dark)\n5. [Sigils and Painting](#sigils)\n6. [Original Concept Art](#concept)\n7. [Postcard](#postcard)\n8. [Light Violins](#violins)\n\n*** \n\n<div id=\"selfie_booth\">&nbsp;</div>\n\n# How to Make a Selfie Light Booth\n\n## &#9679; &#9679; &#9679;\n\n1. ![Raw Depth Input]\n2. ![Surface Mapping]\n3. ![Particle System]\n\n\n### 01 Raw Depth Input\nThe Leap Motion uses two infrared (IR) cameras to detect depth. This is what it sees.\n\n### 02 Surface Mapping\nA Sobel filter is applied to generated a normal map that will be used to add more detail to the displacement later.\n\n### 03 Particle System\nAuditorium Duet's particle system, Rho, uses a dynamically-generated mesh to represent simulated particles as ribbons of light.\n\n## &#9679; &#9679; &#9679;\n\n1. ![Texture and Color]\n2. ![Threshold]\n3. ![Depth Displacement]\n\n\n### 04 Texture and Color Correction\nCombining the last three passes yields this result.\n\n### 05 Threshold\nWith a basic threshold, we can remove objects that are too far from the camera.\n\n### 06 Depth Displacement\nUsing the depth image and the normal map, we distort the particle system to flow across the subject in three dimensions.\n\n## &#9679; &#9679; &#9679;\n\n\n\n1. ![Camera Bloom]\n2. ![Depth Masking]\n3. ![Final]\n\n\n### 07 Camera Bloom\nUsing [Sonic Ether's bloom tech][Sonic Ether], we generate light from the particles, simulating the interactions that take place in a real camera lens.\n\n### 08 Depth Masking\nNow, with our virtual camera, we detect distance and use that generate a new depth mask.\n\n### 09 Depth of Field\nFinally, we apply a Depth of Field effect, simulating the focal depth of a real camera. This is the final result.\n\n## &#9679; &#9679; &#9679;\n\n<p>\n<iframe src=\"//player.vimeo.com/video/143423100?autoplay=1&loop=1\" width=\"400\" height=\"600\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n</p>\n\n## 10 Put it Together in Real Time\nAll of this is done in real time, yielding an effect unlike anything you've ever seen.\n\n## &#9679; &#9679; &#9679;\n\n![Selfie Booth in Unity3d]\n\n2. ![Selfie Booth Screenshot Test]\n3. ![Selfie Booth Print Test]\n\n# Software and Print Testing\nWe created the Selife Light Booth using a popular game engine we're familiar with called *Unity3d*. The beams of light were originally created for *Auditorium Duet*, the sequel to our very first game *Auditorium*.\n\nOne of our biggest concerns in this whole process was having beauitful, fast, and affordable prints. After quite a few printer tests, we settled on using the *Canon Selphy*. Here is our very first print test on this printer. [Above Right]\n\n## &#9679; &#9679; &#9679;\n\n<div id=\"selfie_booth_testing\">&nbsp;</div>\n\n![Selfie Booth User Test]\n\n# User Testing\nWe spent quite a while talking about what the process of printing would look like. What kind of experience did we want someone to have when they walked up and played with the booth? How many photos could they take? Ultimately, we decided to use an iPad app software called *Livebooth* to handle these needs. After some extensive testing, we were able to get the process down flawlessly.\n\n## &#9679; &#9679; &#9679;\n\n![Selfie Booth Electronic]\n\n# Hardware\nWe used *Arduino* to interface with our Light Selfie Booth Application. We used a glowing white button to take your selfie with two knobs used to control hue and saturation. We have a lot of fun variables to play with, but ultimatly went with this simple interface. It might be cool to add controls for things like particle turbulence in the future.\n\n## &#9679; &#9679; &#9679;\n\n<div id=\"selfie_booth_construction\">&nbsp;</div>\n\n1. ![Selfie Booth Construction]\n2. ![Selfie Booth Without Top]\n\n# Booth Construction\nIt's sort of ridiculous how hard it was to find a cheap white presentation platform. Searching online yielded few affordable options, so we opted to create our own. The entire process of creating the booth took around three days. (We even created our own tools, building a square from scrap timber we had laying around.)\n\n## &#9679; &#9679; &#9679;\n\n<div id=\"selfie_presentation\">&nbsp;</div>\n\n1. ![Sigil Rubber Block]\n2. ![Stamped Wax Paper Sleeves]\n\n# Selfie Sleeves\nArt is all about the experience, so we created Wax Paper Sleeves by carving the Auditorium Duet Logo into a Rubber Block and hand-stamping them. This was a very lengthly process, but yielded a simple, elegant result.\n\n***\n\n<div id=\"light_and_dark\">&nbsp;</div>\n\n![Light and Dark Compositions]\n\n# Showing Duality Between the Past and the Future\nFrom the moment we had accepted the challenge of creating this show, we knew we wanted to offer at least three scales of pieces. But more importantly, we also knew we wanted the medium and large pieces to mirror each other. A lot of care and craftsmanship went into making sure we could portay both worlds with the exact same content.\n\n***\n\n<div id=\"concept\">&nbsp;</div>\n\n![Original Concept Art]\n\n# Original Concept Art\nThe world of Auditorium is quite flat. At some point, we decided to use the background of the game as a horizon line to create unique compositions. With the thought of creating a brand new renderer firmly in mind, this was the final concept design that we created before developing this new rendering technique.\n\n***\n\n<div id=\"sigils\">&nbsp;</div>\n\n1. ![Sigil Sketches]\n2. ![Typtic Painting in Progress]\n\n# Sigils and Painting\nEach large piece was printed with archival ink then hand-embellished with their respective sigils. These sigils represent the mood and spirit of each world these game elements are encountered in *Auditorium Duet*. Here you can see Sean Martorana from Indy Hall Arts taking a look at our tryptic during its initial painting process.\n\n***\n\n<div id=\"postcard\">&nbsp;</div>\n\n1. ![First Draft Postcard]\n2. ![Print Ready Postcard]\n\n# PostCard\nThis was our very first art show! Of course we made some baller postcards to both celebrate and promote. Our initial concept used the game title *Auditorium Duet* before we had completely finalized the show name, *We've Traveled So Far*.\n\n***\n\n<div id=\"violins\">&nbsp;</div>\n\n![Light Violin]\n\n# Light Violins\nNot everything we tried made it into the show. Here is a prototype of the Light Violins we were going to use for the window display.\n\n\n\n\n[Raw Depth Input]: /content/img/behind_the_scenes/booth_process/01%20Raw%20Depth%20Input%20-%20scaled.png\n[Surface Mapping]: /content/img/behind_the_scenes/booth_process/02%20Surface%20Mapping%20-%20scaled.png\n[Particle System]: /content/img/behind_the_scenes/booth_process/03%20Particle%20System.png\n[Texture and Color]: /content/img/behind_the_scenes/booth_process/04%20Texture%20and%20Color.png\n[Threshold]: /content/img/behind_the_scenes/booth_process/05%20Threshold.png\n[Depth Displacement]: /content/img/behind_the_scenes/booth_process/06%20Depth%20Displacement.png\n[Camera Bloom]: /content/img/behind_the_scenes/booth_process/07%20Camera%20Bloom.png\n[Depth Masking]: /content/img/behind_the_scenes/booth_process/08%20Depth%20Masking.png\n[Final]: /content/img/behind_the_scenes/booth_process/10%20Final.png\n\n\n[Leap Motion]: http://www.leapmotion.com/\n[Sonic Ether]: https://www.assetstore.unity3d.com/en/#!/content/17324\n\n\n\n[Image 1]: /content/img/behind_the_scenes/city%20paper%20october%205th%202015.jpg\n\n[Light and Dark Compositions]: /content/img/behind_the_scenes/duality.jpg\n\n[Original Concept Art]: /content/img/behind_the_scenes/duet_concept_art.jpg\n\n[First Draft Postcard]: /content/img/behind_the_scenes/postcard_first_draft.jpg\n[Print Ready Postcard]: /content/img/behind_the_scenes/postcard_front_printready.png\n\n[Sigil Sketches]: /content/img/behind_the_scenes/sigil_sketches.jpg\n[Typtic Painting in Progress]: /content/img/behind_the_scenes/typtic_painting_progress.jpg\n\n[Selfie Booth Electronic]: /content/img/behind_the_scenes/selfie_booth_electronics.jpg\n[Selfie Booth Construction]: /content/img/behind_the_scenes/selfie_booth_contruction.jpg\n[Selfie Booth Without Top]: /content/img/behind_the_scenes/selfie_booth_raw.jpg\n\n[Sigil Rubber Block]: /content/img/behind_the_scenes/sigil_rubber_block.jpg\n[Stamped Wax Paper Sleeves]: /content/img/behind_the_scenes/stamped_wax_paper_sleeves.jpg\n\n[Selfie Booth Screenshot Test]: /content/img/behind_the_scenes/selfie_booth_unity3d.jpg\n[Selfie Booth Print Test]: /content/img/behind_the_scenes/selfie_booth_first_print.jpg\n[Selfie Booth in Unity3d]: /content/img/behind_the_scenes/selfie_booth_unity3d.png\n\n[Selfie Booth User Test]: /content/img/behind_the_scenes/selfie_booth_user_test.jpg\n\n[Large Piece Overview]: /content/img/large/overview_pieces_ground.jpg\n\n[Light Violin]: /content/img/behind_the_scenes/violins/light_violin.jpg",
+			"file": "content/behind.md",
+			"file_size": 9357,
+			"file_write_time": 130946826430000000,
+			"settings":
+			{
+				"buffer_size": 9357,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "themes/default/index.html",
+			"file": "content/show/pieces.md",
 			"settings":
 			{
-				"buffer_size": 2895,
-				"line_ending": "Windows"
+				"buffer_size": 7275,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "themes/default/custom.css",
 			"settings":
 			{
-				"buffer_size": 2760,
+				"buffer_size": 3040,
 				"line_ending": "Unix"
 			}
 		}
@@ -632,13 +643,14 @@
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/config",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content",
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/show",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/video",
-		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes",
-		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes/default",
-		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/themes/default/scripts"
+		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/xtra"
 	],
 	"file_history":
 	[
+		"/Users/dainsaint/Dropbox/Projects/Personal/Crunch/crunch-game/deck.rb",
+		"/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/rendering/shaders/DisplacementMapRho.shader",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/lightbooth.md",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/experiments/drilling/animations/DetailObjectAnimationRadial.cs",
 		"/Users/dainsaint/Work/projects/We've Traveled So Far/website/WeveTraveledWebsite/content/process.md",
@@ -764,9 +776,7 @@
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/project/prefabs/FindTriggerOnStart.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/TextMesh Pro/Scripts/TextMeshProUGUI.cs",
 		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/vendor/LetterSpacing.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/DrawRectAtCameraDepth.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/TransformEditor.cs",
-		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/designer/editor/tools/DistributeEditor.cs"
+		"/Users/dainsaint/Work/projects/flight-wall/Flight Wall/Assets/packages/DrawRectAtCameraDepth.cs"
 	],
 	"find":
 	{
@@ -784,6 +794,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[Purchase",
+			"Print_Onward",
+			"]\n",
 			"scaleRange",
 			">\n",
 			"HTML5Sample",
@@ -908,10 +921,7 @@
 			"imescale",
 			"imeScale",
 			"imescale",
-			"timescale",
-			"deltaTime",
-			"i ",
-			"i"
+			"timescale"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -932,7 +942,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -948,8 +958,8 @@
 						"selection":
 						[
 							[
-								570,
-								570
+								327,
+								327
 							]
 						],
 						"settings":
@@ -960,7 +970,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -976,8 +986,8 @@
 						"selection":
 						[
 							[
-								1298,
-								1298
+								1304,
+								1304
 							]
 						],
 						"settings":
@@ -993,49 +1003,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/dainsaint/Work/projects/duet-photo-booth/PhotoBooth/Assets/project/rendering/shaders/DisplacementMapRho.shader",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2971,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2834,
-								2834
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShaderLanguages/Unity ShaderLab.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 672.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "themes/default/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2895,
+						"buffer_size": 3223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2802,
+								2802
 							]
 						],
 						"settings":
@@ -1047,24 +1027,116 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "themes/default/custom.css",
-					"semi_transient": false,
+					"buffer": 3,
+					"file": "content/behind.md",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2760,
+						"buffer_size": 9357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/show/pieces.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2235,
+								2235
+							],
+							[
+								2605,
+								2605
+							],
+							[
+								2996,
+								2996
+							],
+							[
+								3388,
+								3388
+							],
+							[
+								3759,
+								3759
+							],
+							[
+								4339,
+								4339
+							],
+							[
+								4579,
+								4579
+							],
+							[
+								4799,
+								4799
+							],
+							[
+								5022,
+								5022
+							],
+							[
+								5260,
+								5260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/default/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2303,
+								2296
 							]
 						],
 						"settings":
@@ -1073,10 +1145,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 774.0,
+						"translation.y": 3017.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]

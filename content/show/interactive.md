@@ -7,8 +7,6 @@ Description: This show was about so much more than just exploring our journey. W
 
 ![Selfie Booth Button]
 
-# Parker is dumb
-
 # Light Beam Selfies For Everyone
 This show was about so much more than just exploring our journey. We really wanted viewers to come in and reflect on journeys traveled or still in transit. What better way to have someone put themselves into this frame of reference than putting them into the art?
 
